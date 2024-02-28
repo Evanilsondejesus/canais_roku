@@ -5,6 +5,12 @@ const cors = require('cors');
 const app = express();
 const fs = require('fs');
 
+app.use(express.static(path.join(__dirname)));
+
+
+
+
+
 const PORT = process.env.PORT || 3000;
 
 app.use(express.static(path.join(__dirname)));
@@ -78,26 +84,6 @@ app.post('/upload', upload.single('arquivoJSON'), (req, res) => {
 
 
 });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
