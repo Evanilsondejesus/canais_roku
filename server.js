@@ -1,119 +1,106 @@
-/**
- * This is the main Node.js server script for your project
- * Check out the two endpoints this back-end API provides in fastify.get and fastify.post below
- */
+ const express = require('express');
+const path = require('path');
+const cors = require('cors');
 
-const path = require("path");
+const app = express();
+const fs = require('fs');
 
-// Require the fastify framework and instantiate it
-const fastify = require("fastify")({
-  // Set this to true for detailed logging:
-  logger: false,
+const PORT = process.env.PORT || 3000;
+
+app.use(express.static(path.join(__dirname)));
+
+
+// app.set('view engine', 'ejs');
+// app.set('views', path.join(__dirname, ''));
+
+
+
+
+const multer = require('multer');
+ 
+
+const upload = multer();
+app.use(cors());
+
+ 
+
+
+
+
+
+app.get('/download', (req, res) => {
+    const filePath = 'canais.json'; // Substitua pelo caminho correto para o seu arquivo JSON
+
+    // Verifica se o arquivo existe
+    fs.access(filePath, fs.constants.F_OK, (err) => {
+        if (err) {
+            console.error('O arquivo não existe:', err);
+            return res.status(404).send('O arquivo não existe');
+        }
+
+        // Define os cabeçalhos da resposta para fazer o navegador baixar o arquivo
+        res.setHeader('Content-Disposition', 'attachment; filename=canais.json');
+        res.setHeader('Content-Type', 'application/json');
+
+        // Faz o stream do arquivo para a resposta HTTP
+        const fileStream = fs.createReadStream(filePath);
+        fileStream.pipe(res);
+    });
 });
 
-// ADD FAVORITES ARRAY VARIABLE FROM TODO HERE
+  
 
-// Setup our static files
-fastify.register(require("@fastify/static"), {
-  root: path.join(__dirname, "public"),
-  prefix: "/", // optional: default '/'
-});
 
-// Formbody lets us parse incoming forms
-fastify.register(require("@fastify/formbody"));
 
-// View is a templating manager for fastify
-fastify.register(require("@fastify/view"), {
-  engine: {
-    handlebars: require("handlebars"),
-  },
-});
 
-// Load and parse SEO data
-const seo = require("./src/seo.json");
-if (seo.url === "glitch-default") {
-  seo.url = `https://${process.env.PROJECT_DOMAIN}.glitch.me`;
-}
-
-/**
- * Our home page route
- *
- * Returns src/pages/index.hbs with data built into it
- */
-fastify.get("/", function (request, reply) {
-  // params is an object we'll pass to our handlebars template
-  let params = { seo: seo };
-
-  // If someone clicked the option for a random color it'll be passed in the querystring
-  if (request.query.randomize) {
-    // We need to load our color data file, pick one at random, and add it to the params
-    const colors = require("./src/colors.json");
-    const allColors = Object.keys(colors);
-    let currentColor = allColors[(allColors.length * Math.random()) << 0];
-
-    // Add the color properties to the params object
-    params = {
-      color: colors[currentColor],
-      colorError: null,
-      seo: seo,
-    };
+app.post('/upload', upload.single('arquivoJSON'), (req, res) => {
+  // Verifica se um arquivo foi enviado
+  if (!req.file) {
+      return res.status(400).send('Nenhum arquivo enviado');
   }
 
-  // The Handlebars code will be able to access the parameter values and build them into the page
-  return reply.view("/src/pages/index.hbs", params);
-});
+  // Aqui você pode acessar os dados do arquivo JSON
+  const jsonData = JSON.parse(req.file.buffer.toString('utf8'));
 
-/**
- * Our POST route to handle and react to form submissions
- *
- * Accepts body data indicating the user choice
- */
-fastify.post("/", function (request, reply) {
-  // Build the params object to pass to the template
-  let params = { seo: seo };
 
-  // If the user submitted a color through the form it'll be passed here in the request body
-  let color = request.body.color;
+  // Envia uma resposta para indicar que o arquivo foi recebido com sucesso
+  res.send("Arquivo JSON recebido com sucesso");
 
-  // If it's not empty, let's try to find the color
-  if (color) {
-    // ADD CODE FROM TODO HERE TO SAVE SUBMITTED FAVORITES
-
-    // Load our color data file
-    const colors = require("./src/colors.json");
-
-    // Take our form submission, remove whitespace, and convert to lowercase
-    color = color.toLowerCase().replace(/\s/g, "");
-
-    // Now we see if that color is a key in our colors object
-    if (colors[color]) {
-      // Found one!
-      params = {
-        color: colors[color],
-        colorError: null,
-        seo: seo,
-      };
-    } else {
-      // No luck! Return the user value as the error property
-      params = {
-        colorError: request.body.color,
-        seo: seo,
-      };
-    }
-  }
-
-  // The Handlebars template will use the parameter values to update the page with the chosen color
-  return reply.view("/src/pages/index.hbs", params);
-});
-
-// Run the server and report out to the logs
-fastify.listen(
-  { port: process.env.PORT, host: "0.0.0.0" },
-  function (err, address) {
+  fs.writeFile('canais.json', JSON.stringify(jsonData, null, 2), (err) => {
     if (err) {
-      console.error(err);
-      process.exit(1);
+        console.error('Erro ao salvar os dados:', err);
+        return res.status(500).send('Erro ao salvar os dados');
     }
-    console.log(`Your app is listening on ${address}`);
-  }
-);
+    
+    res.send("Arquivo JSON recebido e salvado com sucesso");
+});
+
+
+
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+app.listen(PORT, () => {
+  console.log(`Servidor rodando na porta ${PORT}`);
+});
