@@ -3,9 +3,12 @@
   "language": "en-US",
   "lastUpdated": "2020-03-15T02:01:00+02:00",
   "shortFormVideos": [
+    
+    
+    
     {
       "longDescription": "Spy family 1",
-      "thumbnail": "https://image.roku.com/ZHZscHItMTc2/streaming-overview.jpg",
+      "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa.jpg?v=1709162049196",
       "releaseDate": "2020-01-15",
       "genres": [
         "educational"
@@ -1205,6 +1208,9 @@
       ]
     }
   ],
+  
+  
+  
   "movies": [
     {
       "longDescription": "This video demonstrates the Roku Remote Debugger, and it shows how the BrightScript network debug protocol could be used in an integration with an IDE such as Visual Studio Code.",
@@ -1285,6 +1291,9 @@
       }
     }
   ],
+  
+  
+  
   "Filmes": [
     {
       "longDescription": "This video demonstrates the Roku Remote Debugger, and it shows how the BrightScript network debug protocol could be used in an integration with an IDE such as Visual Studio Code.",
@@ -1312,6 +1321,9 @@
         "dateAdded": "2020-01-29T02:39:11Z"
       }
     },
+    
+      
+      
     {
       "longDescription": "Video that demonstrates the Roku automated channel testing software. It provides a brief overview of the technology stack, and it shows how both the Roku WebDriver and Robot Framework Library can be used for state-driven channel UI automation testing.",
       "thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4374be10035077242dde8b7fe272e509ad6e563a_1/images/basicTestReport.jpg",
