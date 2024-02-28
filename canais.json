@@ -1328,185 +1328,178 @@
       }
     },
     
-      
-     
     
-      
-    {
-      "longDescription": "capitulo 2",
-      "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa.jpg?v=1709162049196",
-      "releaseDate": "2020-01-20",
+    
+     {
+      "longDescription": "CAPITULO: 2",
+      "thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-a59a8c9b7140da32b98cb91fe415a2e3e7dc0660_1/images/userManagementAccess.jpg",
+      "releaseDate": "2020-01-15",
       "genres": [
         "educational"
       ],
       "tags": [
-        "demo"
+        "getting-started"
       ],
-      "id": "shortform-4374be10035077242dde8b7fe272e509ad6e563a",
-      "shortDescription": "Demonstrates the Roku automated channel testing software.",
-      "title": "Automated channel testing",
+      "id": "shortform-roku-development-overview",
+      "shortDescription": "descrisao 2",
+      "title": "Roku Development Overview",
       "content": {
-        "duration": 713,
+        "duration": 248,
         "videos": [
           {
-            "videoType": "HLS",
+            "videoType": "MP4",
             "url": "https://lightspeedst.net/s1/mp4/edens-zero-dublado/sd/2.mp4",
             "quality": "SD"
           }
         ],
         "language": "en-us",
-        "dateAdded": "2020-01-29T02:39:10Z"
+        "dateAdded": "2020-01-29T02:39:11Z"
       }
     },
     
     
-
-      
-    {
-      "longDescription": "capitulo 3",
-      "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa.jpg?v=1709162049196",
-      "releaseDate": "2020-01-20",
+    
+    
+    
+    
+    
+     
+     {
+      "longDescription": "CAPITULO: 3",
+      "thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-a59a8c9b7140da32b98cb91fe415a2e3e7dc0660_1/images/userManagementAccess.jpg",
+      "releaseDate": "2020-01-15",
       "genres": [
         "educational"
       ],
       "tags": [
-        "demo"
+        "getting-started"
       ],
-      "id": "shortform-4374be10035077242dde8b7fe272e509ad6e563a",
-      "shortDescription": "Demonstrates the Roku automated channel testing software.",
-      "title": "Automated channel testing",
+      "id": "shortform-roku-development-overview",
+      "shortDescription": "descrisao 2",
+      "title": "Roku Development Overview",
       "content": {
-        "duration": 713,
+        "duration": 248,
         "videos": [
           {
-            "videoType": "HLS",
+            "videoType": "MP4",
             "url": "https://lightspeedst.net/s1/mp4/edens-zero-dublado/sd/3.mp4",
             "quality": "SD"
           }
         ],
         "language": "en-us",
-        "dateAdded": "2020-01-29T02:39:10Z"
+        "dateAdded": "2020-01-29T02:39:11Z"
       }
     },
     
     
     
-      
-    {
-      "longDescription": "capitulo 4",
-      "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa.jpg?v=1709162049196",
-      "releaseDate": "2020-01-20",
+    
+     
+     {
+      "longDescription": "CAPITULO: 4",
+      "thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-a59a8c9b7140da32b98cb91fe415a2e3e7dc0660_1/images/userManagementAccess.jpg",
+      "releaseDate": "2020-01-15",
       "genres": [
         "educational"
       ],
       "tags": [
-        "demo"
+        "getting-started"
       ],
-      "id": "shortform-4374be10035077242dde8b7fe272e509ad6e563a",
-      "shortDescription": "Demonstrates the Roku automated channel testing software.",
-      "title": "Automated channel testing",
+      "id": "shortform-roku-development-overview",
+      "shortDescription": "descrisao 2",
+      "title": "Roku Development Overview",
       "content": {
-        "duration": 713,
+        "duration": 248,
         "videos": [
           {
-            "videoType": "HLS",
+            "videoType": "MP4",
             "url": "https://lightspeedst.net/s1/mp4/edens-zero-dublado/sd/4.mp4",
             "quality": "SD"
           }
         ],
         "language": "en-us",
-        "dateAdded": "2020-01-29T02:39:10Z"
+        "dateAdded": "2020-01-29T02:39:11Z"
       }
     },
     
     
     
-      
-    {
-      "longDescription": "capitulo 5",
-      "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa.jpg?v=1709162049196",
-      "releaseDate": "2020-01-20",
+    
+     
+     {
+      "longDescription": "CAPITULO: 5",
+      "thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-a59a8c9b7140da32b98cb91fe415a2e3e7dc0660_1/images/userManagementAccess.jpg",
+      "releaseDate": "2020-01-15",
       "genres": [
         "educational"
       ],
       "tags": [
-        "demo"
+        "getting-started"
       ],
-      "id": "shortform-4374be10035077242dde8b7fe272e509ad6e563a",
-      "shortDescription": "Demonstrates the Roku automated channel testing software.",
-      "title": "Automated channel testing",
+      "id": "shortform-roku-development-overview",
+      "shortDescription": "descrisao 2",
+      "title": "Roku Development Overview",
       "content": {
-        "duration": 713,
+        "duration": 248,
         "videos": [
           {
-            "videoType": "HLS",
+            "videoType": "MP4",
             "url": "https://lightspeedst.net/s1/mp4/edens-zero-dublado/sd/5.mp4",
             "quality": "SD"
           }
         ],
         "language": "en-us",
-        "dateAdded": "2020-01-29T02:39:10Z"
+        "dateAdded": "2020-01-29T02:39:11Z"
       }
     },
     
     
-      
-    {
-      "longDescription": "capitulo 6",
-      "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa.jpg?v=1709162049196",
-      "releaseDate": "2020-01-20",
+    
+    
+     
+     {
+      "longDescription": "CAPITULO: 6",
+      "thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-a59a8c9b7140da32b98cb91fe415a2e3e7dc0660_1/images/userManagementAccess.jpg",
+      "releaseDate": "2020-01-15",
       "genres": [
         "educational"
       ],
       "tags": [
-        "demo"
+        "getting-started"
       ],
-      "id": "shortform-4374be10035077242dde8b7fe272e509ad6e563a",
-      "shortDescription": "Demonstrates the Roku automated channel testing software.",
-      "title": "Automated channel testing",
+      "id": "shortform-roku-development-overview",
+      "shortDescription": "descrisao 2",
+      "title": "Roku Development Overview",
       "content": {
-        "duration": 713,
+        "duration": 248,
         "videos": [
           {
-            "videoType": "HLS",
+            "videoType": "MP4",
             "url": "https://lightspeedst.net/s1/mp4/edens-zero-dublado/sd/6.mp4",
             "quality": "SD"
           }
         ],
         "language": "en-us",
-        "dateAdded": "2020-01-29T02:39:10Z"
+        "dateAdded": "2020-01-29T02:39:11Z"
       }
     },
+    
+    
+    
+    
+    
+    
+    
+    
     
     
       
-    {
-      "longDescription": "capitulo 7",
-      "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa.jpg?v=1709162049196",
-      "releaseDate": "2020-01-20",
-      "genres": [
-        "educational"
-      ],
-      "tags": [
-        "demo"
-      ],
-      "id": "shortform-4374be10035077242dde8b7fe272e509ad6e563a",
-      "shortDescription": "Demonstrates the Roku automated channel testing software.",
-      "title": "Automated channel testing",
-      "content": {
-        "duration": 713,
-        "videos": [
-          {
-            "videoType": "HLS",
-            "url": "https://lightspeedst.net/s1/mp4/edens-zero-dublado/sd/7.mp4",
-            "quality": "SD"
-          }
-        ],
-        "language": "en-us",
-        "dateAdded": "2020-01-29T02:39:10Z"
-      }
-    },
+      
+     
+      
     
+    
+     
     
     
       
