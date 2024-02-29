@@ -933,23 +933,7 @@
                 "educational"
               ]
             },
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
+      
             
             
             
@@ -982,29 +966,26 @@
             },
             
             
-            
-            
-            
-            {
-              "id": "video3-scenegraph-overview",
-              "title": "Core concepts",
+               {
+              "id": "rsg-unit2-developerSetup",
+              "title": "CAPITULO 19",
               "episodeNumber": 3,
               "content": {
                 "dateAdded": "2020-05-07T02:32:24Z",
                 "videos": [
                   {
                     "videoType": "MP4",
-                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit3-sgoverview-v3.mp4",
-                    "quality": "HD"
+                    "url": "https://lightspeedst.net/s2/mp4/kimetsu-no-yaiba-dublado/sd/19.mp4",
+                    "quality": "SD"
                   }
                 ],
-                "duration": 765,
+                "duration": 131,
                 "language": "en-us"
               },
-              "thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit3-core-concepts.png",
-              "shortDescription": "Review key concepts for developing on the Roku platform.",
+              "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa_kimetsu_no_yaiba.jpg?v=1709205897773",
+              "shortDescription": "Start developing for the Roku platform. This lesson explains the first steps.",
               "releaseDate": "2020-05-07",
-              "longDescription": "Review key concepts for developing on the Roku platform. This lesson explains the basic design principles and key concepts of Roku development, provide an overview of Roku's development platform, and review the contents and structure of Roku channels. You'll learn about: SceneGraph and BrightScript, the different types of components you can use to build your channel UI, and many other topics. When you are done with this lesson, you will be ready to start working on your first Roku channel!",
+              "longDescription": "Start developing for the Roku platform. This lesson explains the first steps, which includes creating the required user and developer accounts and enabling your test Roku device for development. Once you're done, you can sideload Roku's Hello World channel and view its output in the debug console.",
               "tags": [
                 "RSG"
               ],
@@ -1012,26 +993,27 @@
                 "educational"
               ]
             },
-            {
-              "id": "rsg-unit4-contentFeed",
-              "title": "Creating the content feed",
+            
+              {
+              "id": "rsg-unit2-developerSetup",
+              "title": "CAPITULO 19",
               "episodeNumber": 4,
               "content": {
                 "dateAdded": "2020-05-07T02:32:24Z",
                 "videos": [
                   {
                     "videoType": "MP4",
-                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit4-contentFeed-v3.mp4",
-                    "quality": "HD"
+                    "url": "https://lightspeedst.net/s2/mp4/kimetsu-no-yaiba-dublado/sd/19.mp4",
+                    "quality": "SD"
                   }
                 ],
-                "duration": 280,
+                "duration": 131,
                 "language": "en-us"
               },
-              "thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit4-content-feed.png",
-              "shortDescription": "Learn how the content feed is used to load and organize content in the channel.",
-              "releaseDate": "2020-07-18",
-              "longDescription": "Learn how the content feed is used to load and organize content in the channel. This lesson explains how the ContentNode maps metadata in your content feed to components in your channel UI, and it provides a few tips for creating your own feed.",
+              "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa_kimetsu_no_yaiba.jpg?v=1709205897773",
+              "shortDescription": "Start developing for the Roku platform. This lesson explains the first steps.",
+              "releaseDate": "2020-05-07",
+              "longDescription": "Start developing for the Roku platform. This lesson explains the first steps, which includes creating the required user and developer accounts and enabling your test Roku device for development. Once you're done, you can sideload Roku's Hello World channel and view its output in the debug console.",
               "tags": [
                 "RSG"
               ],
@@ -1039,26 +1021,27 @@
                 "educational"
               ]
             },
-            {
-              "id": "video5-grid-screen",
-              "title": "Creating a Grid Screen",
+            
+             {
+              "id": "rsg-unit2-developerSetup",
+              "title": "CAPITULO 20",
               "episodeNumber": 5,
               "content": {
                 "dateAdded": "2020-05-07T02:32:24Z",
                 "videos": [
                   {
                     "videoType": "MP4",
-                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit5-gridscreen-v4.mp4",
-                    "quality": "HD"
+                    "url": "https://lightspeedst.net/s2/mp4/kimetsu-no-yaiba-dublado/sd/20.mp4",
+                    "quality": "SD"
                   }
                 ],
-                "duration": 1899,
+                "duration": 131,
                 "language": "en-us"
               },
-              "thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit5-gridScreen.png",
-              "shortDescription": "Build a grid screen that displays rows of content",
+              "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa_kimetsu_no_yaiba.jpg?v=1709205897773",
+              "shortDescription": "Start developing for the Roku platform. This lesson explains the first steps.",
               "releaseDate": "2020-05-07",
-              "longDescription": "Build a grid screen that displays rows of content. This lesson describes how to create a basic channel that gets the videos from a content feed and displays them in a grid. It explains how to create SceneGraph components, set their attributes, and create their interfaces. It also teaches how to use BrightScript to parse the metadata in the content feed, add the metadata to content nodes, and then add the content nodes to your components.",
+              "longDescription": "Start developing for the Roku platform. This lesson explains the first steps, which includes creating the required user and developer accounts and enabling your test Roku device for development. Once you're done, you can sideload Roku's Hello World channel and view its output in the debug console.",
               "tags": [
                 "RSG"
               ],
@@ -1066,6 +1049,71 @@
                 "educational"
               ]
             },
+            
+          {
+              "id": "teste01",
+              "title": "CAPITULO 21",
+              "episodeNumber": 6,
+              "content": {
+                "dateAdded": "2020-05-07T02:32:24Z",
+                "videos": [
+                  {
+                    "videoType": "MP4",
+                    "url": "https://lightspeedst.net/s2/mp4/kimetsu-no-yaiba-dublado/sd/21.mp4",
+                    "quality": "SD"
+                  }
+                ],
+                "duration": 131,
+                "language": "en-us"
+              },
+              "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa_kimetsu_no_yaiba.jpg?v=1709205897773",
+              "shortDescription": "Start developing for the Roku platform. This lesson explains the first steps.",
+              "releaseDate": "2020-05-07",
+              "longDescription": "Start developing for the Roku platform. This lesson explains the first steps, which includes creating the required user and developer accounts and enabling your test Roku device for development. Once you're done, you can sideload Roku's Hello World channel and view its output in the debug console.",
+              "tags": [
+                "RSG"
+              ],
+              "genres": [
+                "educational"
+              ]
+            },
+            
+            
+            
+            
+             {
+              "id": "rsg-unit2-developerSetup",
+              "title": "CAPITULO 22",
+              "episodeNumber": 7,
+              "content": {
+                "dateAdded": "2020-05-07T02:32:24Z",
+                "videos": [
+                  {
+                    "videoType": "MP4",
+                    "url": "https://lightspeedst.net/s2/mp4/kimetsu-no-yaiba-dublado/sd/22.mp4",
+                    "quality": "SD"
+                  }
+                ],
+                "duration": 131,
+                "language": "en-us"
+              },
+              "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa_kimetsu_no_yaiba.jpg?v=1709205897773",
+              "shortDescription": "Start developing for the Roku platform. This lesson explains the first steps.",
+              "releaseDate": "2020-05-07",
+              "longDescription": "Start developing for the Roku platform. This lesson explains the first steps, which includes creating the required user and developer accounts and enabling your test Roku device for development. Once you're done, you can sideload Roku's Hello World channel and view its output in the debug console.",
+              "tags": [
+                "RSG"
+              ],
+              "genres": [
+                "educational"
+              ]
+            },
+            
+            
+            
+         
+            
+            
             {
               "id": "video6-video-player",
               "title": "Adding the Video Player",
