@@ -1390,8 +1390,6 @@
     
      
      
-    
-    
       
    
      
@@ -1428,7 +1426,7 @@
   
   
   
-   "viland saga": [
+   "Viland saga": [
     {
       "longDescription": "This video demonstrates the Roku Remote Debugger, and it shows how the BrightScript network debug protocol could be used in an integration with an IDE such as Visual Studio Code.",
       "thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a_1/images/roku-brightscript-network-debug-protocol.jpg",
@@ -1447,7 +1445,7 @@
         "videos": [
           {
             "videoType": "MP4",
-            "url": "https://image.roku.com/ZHZscHItMTc2/roku-brightscript-debug-protocol.mp4",
+            "url": "https://lightspeedst.net/s1/mp4/vinland-saga-dublado/sd/1.mp4",
             "quality": "HD"
           }
         ],
@@ -1455,32 +1453,189 @@
         "dateAdded": "2020-01-29T02:39:11Z"
       }
     },
-    {
-      "longDescription": "Video that demonstrates the Roku automated channel testing software. It provides a brief overview of the technology stack, and it shows how both the Roku WebDriver and Robot Framework Library can be used for state-driven channel UI automation testing.",
-      "thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4374be10035077242dde8b7fe272e509ad6e563a_1/images/basicTestReport.jpg",
-      "releaseDate": "2020-01-20",
+     
+     
+    
+     
+       {
+      "longDescription": "CAPITULO: 2",
+      "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa.jpg?v=1709162049196",
+      "releaseDate": "2020-01-15",
       "genres": [
         "educational"
       ],
       "tags": [
-        "demo"
+        "getting-started"
       ],
-      "id": "shortform-4374be10035077242dde8b7fe272e509ad6e563a",
-      "shortDescription": "Demonstrates the Roku automated channel testing software.",
-      "title": "Automated channel testing",
+      "id": "shortform-roku-development-overview",
+      "shortDescription": "descrisao 2",
+      "title": "capitulo 2",
       "content": {
-        "duration": 713,
+        "duration": 248,
         "videos": [
           {
-            "videoType": "HLS",
-            "url": "https://ovp-selector.sr.roku.com/v1/f73763a9-8105-4b78-90e0-381ea0d0128b?format=hls",
-            "quality": "HD"
+            "videoType": "MP4",
+            "url": "https://lightspeedst.net/s1/mp4/vinland-saga-dublado/sd/2.mp4",
+            "quality": "SD"
           }
         ],
         "language": "en-us",
-        "dateAdded": "2020-01-29T02:39:10Z"
+        "dateAdded": "2020-01-29T02:39:11Z"
       }
     },
+    
+    
+     
+       {
+      "longDescription": "CAPITULO: 3",
+      "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa.jpg?v=1709162049196",
+      "releaseDate": "2020-01-15",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-development-overview",
+      "shortDescription": "descrisao 2",
+      "title": "capitulo 3",
+      "content": {
+        "duration": 248,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "https://lightspeedst.net/s1/mp4/vinland-saga-dublado/sd/3.mp4",
+            "quality": "SD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    
+     
+       {
+      "longDescription": "CAPITULO: 4",
+      "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa.jpg?v=1709162049196",
+      "releaseDate": "2020-01-15",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-development-overview",
+      "shortDescription": "descrisao 2",
+      "title": "capitulo 4",
+      "content": {
+        "duration": 248,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "https://lightspeedst.net/s1/mp4/vinland-saga-dublado/sd/4.mp4",
+            "quality": "SD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    
+     
+      {
+      "longDescription": "CAPITULO: 5",
+      "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa.jpg?v=1709162049196",
+      "releaseDate": "2020-01-15",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-development-overview",
+      "shortDescription": "descrisao 2",
+      "title": "capitulo 5",
+      "content": {
+        "duration": 248,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "https://lightspeedst.net/s1/mp4/vinland-saga-dublado/sd/5.mp4",
+            "quality": "SD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    
+     
+     
+      {
+      "longDescription": "CAPITULO: 6",
+      "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa.jpg?v=1709162049196",
+      "releaseDate": "2020-01-15",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-development-overview",
+      "shortDescription": "descrisao 2",
+      "title": "capitulo 6",
+      "content": {
+        "duration": 248,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "https://lightspeedst.net/s1/mp4/vinland-saga-dublado/sd/6.mp4",
+            "quality": "SD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    
+     
+     
+      {
+      "longDescription": "CAPITULO: 7",
+      "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa.jpg?v=1709162049196",
+      "releaseDate": "2020-01-15",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-development-overview",
+      "shortDescription": "descrisao 2",
+      "title": "capitulo 7",
+      "content": {
+        "duration": 248,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "https://lightspeedst.net/s1/mp4/vinland-saga-dublado/sd/7.mp4",
+            "quality": "SD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
     {
       "longDescription": "Video demonstrating how a developer can use the Developer Dashboard's user access management feature to give team members the authority to take administrative actions, which are appropriate for their respective organizational roles",
       "thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-a59a8c9b7140da32b98cb91fe415a2e3e7dc0660_1/images/userManagementAccess.jpg",
