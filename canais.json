@@ -1211,10 +1211,10 @@
   
   
   
-  "movies": [
+  "Filmes": [
     {
-      "longDescription": "This video demonstrates the Roku Remote Debugger, and it shows how the BrightScript network debug protocol could be used in an integration with an IDE such as Visual Studio Code.",
-      "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa_Endz_zero.jpg?v=1709199949139",
+      "longDescription": "Depois de derrotar outro chefe e passar pelos portões do quinto andar, a dupla desajustada Kazuto “Kirito” Kirigaya e Asuna Yuuki é saudada por uma bela paisagem de ruínas em ruínas e catacumbas repletas de mistério. Esta aventura idílica, no entanto, dura pouco. As tensões entre a Brigada dos Cavaleiros do Dragão e o Esquadrão de Libertação de Aincrad – as duas principais guildas focadas em limpar Sword Art Online – continuam a aumentar e ameaçar a frágil estabilidade do grupo de ataque da linha de frente. Kirito e Asuna são forçados a agir rapidamente, fazendo uma aposta desesperada e reunindo um pequeno número de aliados para uma missão perigosa. Como resultado, Asuna e Misumi Mito Tozawa devem chegar a um acordo com seu relacionamento após...",
+      "thumbnail": "https://image.tmdb.org/t/p/original/pt7Qe7ROmr0j9bslRLgSRn23Jf5.jpg",
       "releaseDate": "2020-01-20",
       "genres": [
         "educational"
@@ -1230,7 +1230,7 @@
         "videos": [
           {
             "videoType": "MP4",
-            "url": "https://image.roku.com/ZHZscHItMTc2/roku-brightscript-debug-protocol.mp4",
+            "url": "https://s2.lightspeedst.net/s2/mp4/sword-art-online-progressive-movie---kuraki-yuuyami-no-scherzo-dublado/sd/1.mp4",
             "quality": "HD"
           }
         ],
@@ -1294,6 +1294,17 @@
   
   
 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   "Endes Zero": [
