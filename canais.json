@@ -641,7 +641,7 @@
       "id": "series_1_tips",
       "title": "Vinland saga",
       "releaseDate": "2020-03-15T02:01:00+02:00",
-      "shortDescription": "O jovem Thorfinn cresceu ouvindo",
+      "shortDescription": "Com o anjo final derrotado, Nerv tem um último inimigo a ser enfrentado - os humanos sob o comando de Seele",
       "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa_viland_saga.jpg?v=1709197421870",
       "genres": [
         "educational"
@@ -657,6 +657,8 @@
           
           "episodes": [
             {
+              
+              
               "id": "shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4",
               "title": "CAPITULO 1",
               "episodeNumber": 1,
@@ -670,6 +672,7 @@
                   }
                 ],
                 "duration": 187,
+                
                 "captions": [
                   {
                     "language": "en",
@@ -691,7 +694,7 @@
               "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa_viland_saga.jpg?v=1709197421870",
               "shortDescription": "",
               "releaseDate": "2020-01-02",
-              "longDescription": "Stream music on your Roku device",
+              "longDescription": "Novo tirar",
               "tags": [
                 "tips"
               ],
@@ -700,19 +703,19 @@
               ]
             },
             
+
             
-            
-            {
+              {
               "id": "shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9",
-              "title": "Best speaker placement",
+              "title": "Capitulo 2",
               "episodeNumber": 2,
               "content": {
                 "dateAdded": "2020-02-04T19:08:55Z",
                 "videos": [
                   {
-                    "videoType": "HLS",
-                    "url": "https://d1n7kckvd41xqg.cloudfront.net/62405a3b6d304bd180626636854f7acd/ac885a2fea4d4cbeafb279b33e8ba342/21b582aed3134cd4ad03dc646e04282d/index.m3u8",
-                    "quality": "HD"
+                    "videoType": "MP4",
+                    "url": "https://lightspeedst.net/s1/mp4/vinland-saga-dublado/sd/2.mp4",
+                    "quality": "SD"
                   }
                 ],
                 "duration": 134,
@@ -730,10 +733,65 @@
                 ],
                 "language": "en-us"
               },
-              "thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/images/Best_Speaker_Placement.jpg",
+              "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa_viland_saga.jpg?v=1709197421870",
               "shortDescription": "Find the best placement of your Roku audio devices",
               "releaseDate": "2020-01-02",
-              "longDescription": "Find the best placement of your Roku audio devices",
+              "longDescription": "Espisodio 2",
+              "tags": [
+                "tips"
+              ],
+              "genres": [
+                "educational"
+              ]
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            {
+              "id": "shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9",
+              "title": "Capitulo 3",
+              "episodeNumber": 3,
+              "content": {
+                "dateAdded": "2020-02-04T19:08:55Z",
+                "videos": [
+                  {
+                    "videoType": "MP4",
+                    "url": "https://lightspeedst.net/s1/mp4/vinland-saga-dublado/sd/3.mp4",
+                    "quality": "SD"
+                  }
+                ],
+                "duration": 134,
+                "captions": [
+                  {
+                    "language": "en",
+                    "captionType": "CLOSED_CAPTION",
+                    "url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.srt"
+                  },
+                  {
+                    "language": "en",
+                    "captionType": "CLOSED_CAPTION",
+                    "url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.vtt"
+                  }
+                ],
+                "language": "en-us"
+              },
+              "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa_viland_saga.jpg?v=1709197421870",
+              "shortDescription": "Find the best placement of your Roku audio devices",
+              "releaseDate": "2020-01-02",
+              "longDescription": "Espisodio 2",
               "tags": [
                 "tips"
               ],
@@ -741,8 +799,17 @@
                 "educational"
               ]
             }
+            
+            
+            
+            
+            
+            
+            
+            
           ]
         },
+        
         
         
         
