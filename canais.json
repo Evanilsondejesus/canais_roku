@@ -1388,12 +1388,168 @@
     },
     
     
-     
-     
       
-   
-     
-  
+     {
+      "longDescription": "CAPITULO: 4",
+      "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa_Endz_zero.jpg?v=1709199949139",
+      "releaseDate": "2020-01-15",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-development-overview",
+      "shortDescription": "descrisao 2",
+      "title": "CAPITULO 4",
+      "content": {
+        "duration": 248,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "https://lightspeedst.net/s1/mp4/edens-zero-dublado/sd/4.mp4",
+            "quality": "SD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    
+  {
+      "longDescription": "CAPITULO: 5",
+      "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa_Endz_zero.jpg?v=1709199949139",
+      "releaseDate": "2020-01-15",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-development-overview",
+      "shortDescription": "descrisao 2",
+      "title": "CAPITULO 5",
+      "content": {
+        "duration": 248,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "https://lightspeedst.net/s1/mp4/edens-zero-dublado/sd/5.mp4",
+            "quality": "SD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    {
+      "longDescription": "CAPITULO: 6",
+      "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa_Endz_zero.jpg?v=1709199949139",
+      "releaseDate": "2020-01-15",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-development-overview",
+      "shortDescription": "descrisao 2",
+      "title": "CAPITULO 6",
+      "content": {
+        "duration": 248,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "https://lightspeedst.net/s1/mp4/edens-zero-dublado/sd/6.mp4",
+            "quality": "SD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    
+      
+   {
+      "longDescription": "CAPITULO: 7",
+      "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa_Endz_zero.jpg?v=1709199949139",
+      "releaseDate": "2020-01-15",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-development-overview",
+      "shortDescription": "descrisao 2",
+      "title": "CAPITULO 7",
+      "content": {
+        "duration": 248,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "https://lightspeedst.net/s1/mp4/edens-zero-dublado/sd/7.mp4",
+            "quality": "SD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    
+     {
+      "longDescription": "CAPITULO: 8",
+      "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa_Endz_zero.jpg?v=1709199949139",
+      "releaseDate": "2020-01-15",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-development-overview",
+      "shortDescription": "descrisao 2",
+      "title": "CAPITULO 8",
+      "content": {
+        "duration": 248,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "https://lightspeedst.net/s1/mp4/edens-zero-dublado/sd/8.mp4",
+            "quality": "SD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+    
+  {
+      "longDescription": "CAPITULO: 9",
+      "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa_Endz_zero.jpg?v=1709199949139",
+      "releaseDate": "2020-01-15",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "getting-started"
+      ],
+      "id": "shortform-roku-development-overview",
+      "shortDescription": "descrisao 2",
+      "title": "CAPITULO 9",
+      "content": {
+        "duration": 248,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "https://lightspeedst.net/s1/mp4/edens-zero-dublado/sd/9.mp4",
+            "quality": "SD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
     
     
     {
@@ -1414,7 +1570,7 @@
         "videos": [
           {
             "videoType": "MP4",
-            "url": "https://ovp-selector.sr.roku.com/v1/0c18bf4e-b295-437c-badb-3a171a1b52aa?format=hls",
+            "url": "https://lightspeedst.net/s1/mp4/edens-zero-dublado/sd/3.mp4",
             "quality": "HD"
           }
         ],
