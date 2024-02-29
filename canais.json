@@ -1214,7 +1214,7 @@
   "movies": [
     {
       "longDescription": "This video demonstrates the Roku Remote Debugger, and it shows how the BrightScript network debug protocol could be used in an integration with an IDE such as Visual Studio Code.",
-      "thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a_1/images/roku-brightscript-network-debug-protocol.jpg",
+      "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa_Endz_zero.jpg?v=1709199949139",
       "releaseDate": "2020-01-20",
       "genres": [
         "educational"
@@ -1240,7 +1240,7 @@
     },
     {
       "longDescription": "Video that demonstrates the Roku automated channel testing software. It provides a brief overview of the technology stack, and it shows how both the Roku WebDriver and Robot Framework Library can be used for state-driven channel UI automation testing.",
-      "thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4374be10035077242dde8b7fe272e509ad6e563a_1/images/basicTestReport.jpg",
+      "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa_Endz_zero.jpg?v=1709199949139",
       "releaseDate": "2020-01-20",
       "genres": [
         "educational"
@@ -1299,7 +1299,7 @@
   "Endes Zero": [
     {
       "longDescription": "Capitulo 1",
-      "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa.jpg?v=1709162049196",
+      "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa_Endz_zero.jpg?v=1709199949139",
       "releaseDate": "2020-01-20",
       "genres": [
         "educational"
@@ -1328,7 +1328,7 @@
     
      {
       "longDescription": "CAPITULO: 2",
-      "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa.jpg?v=1709162049196",
+      "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa_Endz_zero.jpg?v=1709199949139",
       "releaseDate": "2020-01-15",
       "genres": [
         "educational"
@@ -1398,7 +1398,7 @@
     
     {
       "longDescription": "Video demonstrating how a developer can use the Developer Dashboard's user access management feature to give team members the authority to take administrative actions, which are appropriate for their respective organizational roles",
-      "thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-a59a8c9b7140da32b98cb91fe415a2e3e7dc0660_1/images/userManagementAccess.jpg",
+      "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa_Endz_zero.jpg?v=1709199949139",
       "releaseDate": "2020-01-20",
       "genres": [
         "educational"
@@ -1413,7 +1413,7 @@
         "duration": 576,
         "videos": [
           {
-            "videoType": "HLS",
+            "videoType": "MP4",
             "url": "https://ovp-selector.sr.roku.com/v1/0c18bf4e-b295-437c-badb-3a171a1b52aa?format=hls",
             "quality": "HD"
           }
@@ -1423,6 +1423,22 @@
       }
     }
   ],
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   
