@@ -617,10 +617,29 @@
       }
     }
   ],
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   "series": [
     {
       "id": "series_1_tips",
-      "title": "Roku Tips & Tricks",
+      "title": "Vinland saga",
       "releaseDate": "2020-03-15T02:01:00+02:00",
       "shortDescription": "Videos highlighting Roku products and features",
       "thumbnail": "https://image.roku.com/ZHZscHItMTc2/tips-tricks.jpg",
@@ -631,8 +650,11 @@
         "tips"
       ],
       "seasons": [
+        
         {
           "title": "Season 1",
+          
+          
           "episodes": [
             {
               "id": "shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4",
@@ -642,8 +664,8 @@
                 "dateAdded": "2020-03-06T20:25:52Z",
                 "videos": [
                   {
-                    "videoType": "HLS",
-                    "url": "https://d1n7kckvd41xqg.cloudfront.net/61f6f859d30743378290300e99f2f53a/ac885a2fea4d4cbeafb279b33e8ba342/21b582aed3134cd4ad03dc646e04282d/index.m3u8",
+                    "videoType": "MP4",
+                    "url": "https://lightspeedst.net/s1/mp4/vinland-saga-dublado/sd/1.mp4",
                     "quality": "HD"
                   }
                 ],
@@ -714,6 +736,9 @@
             }
           ]
         },
+        
+        
+        
         {
           "title": "Season 2",
           "episodes": [
@@ -1208,6 +1233,30 @@
       ]
     }
   ],
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   
