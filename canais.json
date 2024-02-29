@@ -2045,7 +2045,11 @@
     },
      
      
-      {
+     
+     
+     
+     
+  {
       "longDescription": "CAPITULO: 23",
       "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa_viland_saga.jpg?v=1709197421870",
       "releaseDate": "2020-01-15",
@@ -2071,21 +2075,35 @@
         "dateAdded": "2020-01-29T02:39:11Z"
       }
     },
+     
+     
+     
+     
       
      
-       {
-      "longDescription": "Video demonstrating how a developer can use the Developer Dashboard's user access management feature to give team members the authority to take administrative actions, which are appropriate for their respective organizational roles",
-      "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa_viland_saga.jpg?v=1709197421870",
+     
+     
+     
+     
+     
+     
+      
+  
+   {
+      "longDescription": "CAPITULO 24",
+      "thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-a59a8c9b7140da32b98cb91fe415a2e3e7dc0660_1/images/userManagementAccess.jpg",
       "releaseDate": "2020-01-20",
+     
+     
       "genres": [
         "educational"
       ],
       "tags": [
         "demo"
       ],
-      "id": "shortform-a59a8c9b7140da32b98cb91fe415a2e3e7dc0660",
-      "shortDescription": "Capitulo 24",
-      "title": "Managing user access",
+      "id": "shortform-roku-development-overview",
+      "shortDescription": "Demonstrates how a developer can use the Developer Dashboard's user access management feature",
+      "title": "CAPITULO 24",
       "content": {
         "duration": 576,
         "videos": [
@@ -2098,12 +2116,7 @@
         "language": "en-us",
         "dateAdded": "2020-01-29T02:39:11Z"
       }
-    }
-  ]
-  
-  
-  
-  
+   }]
   
   
   
@@ -2120,4 +2133,4 @@
   
    
   
-}
+     }
