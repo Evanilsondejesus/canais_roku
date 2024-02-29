@@ -745,22 +745,7 @@
               ]
             },
             
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            {
+              {
               "id": "shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9",
               "title": "Capitulo 3",
               "episodeNumber": 3,
@@ -898,9 +883,16 @@
         }
       ]
     },
+    
+    
+    
+    
+    
+    
+    
     {
       "id": "series_2_RSG",
-      "title": "SceneGraph Developers: Build a Channel",
+      "title": "kimetsu no yaiba",
       "releaseDate": "2020-03-15T02:01:00+02:00",
       "shortDescription": "The \"SceneGraph Developers: Build a Channel\" course teaches novice Roku developers how to develop a channel from the ground up with the Roku SDK. This course walks developers through each step in building a basic, high-performance Roku channel that passes certification. This course is ideal for developers that are new to the Roku platform and want a simple, streamlined path for quickly understanding Roku development.",
       "thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-build-channel-series.jpg",
@@ -916,14 +908,14 @@
           "episodes": [
             {
               "id": "rsg_unit1_intro",
-              "title": "Introduction to the course",
+              "title": "Capitulo 17",
               "episodeNumber": 1,
               "content": {
                 "dateAdded": "2020-05-07T02:32:24Z",
                 "videos": [
                   {
                     "videoType": "MP4",
-                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                    "url": "https://lightspeedst.net/s2/mp4/kimetsu-no-yaiba-dublado/sd/17.mp4",
                     "quality": "HD"
                   }
                 ],
