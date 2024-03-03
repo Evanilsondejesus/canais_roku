@@ -179,7 +179,7 @@
                 "videos": [
                   {
                     "videoType": "HLS",
-                    "url": "https://m3u8.vg/playlist.m3u8?server=RCFServer3&subfolder=ondemand&vid=c0hIMEJOclVVMXNZRVRoeDlHcEwwdz09",
+                    "url": "http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4084.m3u8",
                     "quality": "HD"
                   }
                 ],
