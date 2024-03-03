@@ -179,7 +179,7 @@
                 "videos": [
                   {
                     "videoType": "HLS",
-                    "url": "https://d1n7kckvd41xqg.cloudfront.net/aed3cf8c357f4ef8b8e267a30ac8f25a/ac885a2fea4d4cbeafb279b33e8ba342/21b582aed3134cd4ad03dc646e04282d/index.m3u8",
+                    "url": "https://alukard.bio/a1/out/old/6/2781/2781_dub_1xbet.m3u8?a=1",
                     "quality": "HD"
                   }
                 ],
@@ -209,6 +209,61 @@
                 "educational"
               ]
             },
+            
+            
+             {
+              "id": "shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9",
+              "title": "Capitulo 2",
+              "episodeNumber": 2,
+              "content": {
+                "dateAdded": "2020-02-04T19:08:55Z",
+                "videos": [
+                  {
+                    "videoType": "HLS",
+                    "url": "https://lightspeedst.net/s1/mp4/vinland-saga-dublado/sd/2.mp4",
+                    "quality": "SD"
+                  }
+                ],
+                "duration": 134,
+                "captions": [
+                  {
+                    "language": "en",
+                    "captionType": "CLOSED_CAPTION",
+                    "url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.srt"
+                  },
+                  {
+                    "language": "en",
+                    "captionType": "CLOSED_CAPTION",
+                    "url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.vtt"
+                  }
+                ],
+                "language": "en-us"
+              },
+              "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa_viland_saga.jpg?v=1709205876345",
+              "shortDescription": "Find the best placement of your Roku audio devices",
+              "releaseDate": "2020-01-02",
+              "longDescription": "Espisodio 2",
+              "tags": [
+                "tips"
+              ],
+              "genres": [
+                "educational"
+              ]
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
             {
               "id": "shortform-6f2088297f82e02e74e07341fd404750b56e2fbb",
               "title": "Private Listening",
@@ -218,7 +273,7 @@
                 "videos": [
                   {
                     "videoType": "HLS",
-                    "url": "https://d1n7kckvd41xqg.cloudfront.net/f137dd3848ba4bf3b70bb00b90b0eaf7/ac885a2fea4d4cbeafb279b33e8ba342/21b582aed3134cd4ad03dc646e04282d/index.m3u8",
+                    "url": "http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3922",
                     "quality": "HD"
                   }
                 ],
