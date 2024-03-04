@@ -179,8 +179,7 @@
                 "videos": [
                   {
                     "videoType": "HLS",
-                    "url": "
-https://vod.cf.dmcdn.net/sec2(LVSRItKszkxZBSpfd8dZMzAmVLxMNFCtcI2hCfXpXC0IHpV5rwyDsL_ML0pZN-Wv4cj-0rniywmm34ud1OUBcQ81yIbdnbwdO8XBBFw86J2RR5Z-ERrl9yzGQjreLWgySBTDEgjKmwyhzCHCWmUaXg)/video/034/333/508333430_mp4_h264_aac_hd.m3u8#cell=cf",
+                    "url": "https://vod.cf.dmcdn.net/sec2(LVSRItKszkxZBSpfd8dZMzAmVLxMNFCtcI2hCfXpXC0IHpV5rwyDsL_ML0pZN-Wv4cj-0rniywmm34ud1OUBcQ81yIbdnbwdO8XBBFw86J2RR5Z-ERrl9yzGQjreLWgySBTDEgjKmwyhzCHCWmUaXg)/video/034/333/508333430_mp4_h264_aac_hd.m3u8#cell=cf",
                     "quality": "HD"
                   }
                 ],
@@ -211,6 +210,7 @@ https://vod.cf.dmcdn.net/sec2(LVSRItKszkxZBSpfd8dZMzAmVLxMNFCtcI2hCfXpXC0IHpV5rw
               ]
             },
             
+            
              {
               "id": "shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9xx",
               "title": "Capitulo 2",
@@ -220,7 +220,7 @@ https://vod.cf.dmcdn.net/sec2(LVSRItKszkxZBSpfd8dZMzAmVLxMNFCtcI2hCfXpXC0IHpV5rw
                 "videos": [
                   {
                     "videoType": "HLS",
-                    "url": "http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3922",
+                    "url": "https://vod.cf.dmcdn.net/sec2(l6-5Q3CWcWgJzUVQIL2xaEWVIWKxlR_LoZF-sSErmtQb9547S2Rbn8aEfDc1aI8ncyMb1qqwdR2UsLj_3j13gbeXNWEz5xxWAhpaqq38is3vzqAVJv_wZyOELvvCtKeTOPhRcjF-nUD94WlrsB62ow)/video/900/100/510001009_mp4_h264_aac_hq.m3u8#cell=cf",
                     "quality": "HD"
                   }
                 ],
