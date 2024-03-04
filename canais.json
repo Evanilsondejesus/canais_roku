@@ -179,7 +179,7 @@
                 "videos": [
                   {
                     "videoType": "HLS",
-                    "url": "https://vod.cf.dmcdn.net/sec2(LVSRItKszkxZBSpfd8dZMzAmVLxMNFCtcI2hCfXpXC0IHpV5rwyDsL_ML0pZN-Wv4cj-0rniywmm34ud1OUBcQ81yIbdnbwdO8XBBFw86J2RR5Z-ERrl9yzGQjreLWgySBTDEgjKmwyhzCHCWmUaXg)/video/034/333/508333430_mp4_h264_aac_hd.m3u8#cell=cf",
+                    "url": "https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8",
                     "quality": "HD"
                   }
                 ],
