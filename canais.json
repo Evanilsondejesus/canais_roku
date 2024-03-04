@@ -179,7 +179,7 @@
                 "videos": [
                   {
                     "videoType": "HLS",
-                    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee8d84bfb286e0007285aad/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a64-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dcad69d9-cbe2-4e00-a9bc-3c865cdc4424&userId=&serverSideAds=true",
+                    "url": "https://geralorigin.eu-central-1.edge.mycdn.live/mylive/megapixsd/tracks-v1a1/mono.m3u8?md5=vWwhrIfJWq6Lb9kdBOBV_Q&expires=1709608510",
                     "quality": "HD"
                   }
                 ],
@@ -188,7 +188,7 @@
                   {
                     "language": "en",
                     "captionType": "CLOSED_CAPTION",
-                    "url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-cb6dc73fb84bf7f0d35b99b83217f2dbc9bc08d5_1/captions/GUEST_MODE_cc_eng.srt"
+                    "url": "https://d6hm6c1vbpf7f2dbc9bc08d5_1/captions/GUEST_MODE_cc_eng.srt"
                   },
                   {
                     "language": "en",
