@@ -179,7 +179,8 @@
                 "videos": [
                   {
                     "videoType": "HLS",
-                    "url": "https://alukard.bio/a1/out/6/4233/4233_o.pai.o.2.2023.1080p.web-dl.eac3.aac.nacional.5.1.m3u8?a=1",
+                    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee8d84bfb286e0007285aad/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a64-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dcad69d9-cbe2-4e00-a9bc-3c865cdc4424&userId=&serverSideAds=true
+",
                     "quality": "HD"
                   }
                 ],
