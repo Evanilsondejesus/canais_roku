@@ -1111,14 +1111,14 @@
                 "videos": [
                   {
                     "videoType": "MP4",
-                    "url": "https://lightspeedst.net/s4/mp4/kimetsu-no-yaiba-yuukaku-hen-dublado/sd/11.mp4",
+                    "url": "https://s2.lightspeedst.net/s2/mp4/dosanko-gal-wa-namara-menkoi-dublado/sd/5.mp4",
                     "quality": "HD"
                   }
                 ],
                 "duration": 819,
                 "language": "en-us"
               },
-              "thumbnail": "https://cdn.glitch.global/9a97079bmpo.jpg?v=1709590677555",
+              "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/Dosanko%20Gal%20wa%20Namara%20Menkoi.jpg?v=1709740010796",
               "shortDescription": "Add a video player to launch content into playback",
               "releaseDate": "2020-05-13",
               "longDescription": "Add a video player to launch content into playback. This lesson teaches how to add the SceneGraph Video node to your channel and link it to the content in other components. It explains how to open the video screen when content is selected, and close it when playback finishes or the back button is pressed on the Roku remote control.",
@@ -1131,6 +1131,8 @@
             }
           ]
         },
+        
+        
         
         
         
@@ -1164,6 +1166,10 @@
                 "educational"
               ]
             },
+            
+            
+            
+            
             {
               "id": "video8-detailsScreen",
               "title": "Creating a Details Screen",
@@ -1191,6 +1197,10 @@
                 "educational"
               ]
             },
+            
+            
+            
+            
             {
               "id": "video9-episodesScreen",
               "title": "Creating an Episodes Screen",
@@ -1220,6 +1230,9 @@
             }
           ]
         },
+        
+        
+        
         {
           "title": "Season 3",
           "episodes": [
@@ -1250,6 +1263,8 @@
                 "educational"
               ]
             },
+            
+            
             {
               "id": "video11-subscriptions",
               "title": "Offering Subscriptions",
@@ -1277,6 +1292,7 @@
                 "educational"
               ]
             },
+            
             {
               "id": "video12-deep-linking-part1",
               "title": "Deep Linking (part 1)",
