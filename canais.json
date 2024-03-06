@@ -371,7 +371,7 @@
                 "videos": [
                   {
                     "videoType": "MP4",
-                    "url": "https://lightspeedst.net/s4/mp4/kimetsu-no-yaiba-yuukaku-hen-dublado/sd/1.mp4",
+                    "url": "https://lightspeedst.net/s4/mp4/kimetsu-no-yaiba-mugen-ressha-hen-dublado/sd/1.mp4",
                     "quality": "HD"
                   }
                 ],
@@ -402,7 +402,7 @@
                 "videos": [
                   {
                     "videoType": "MP4",
-                    "url": "https://lightspeedst.net/s4/mp4/kimetsu-no-yaiba-yuukaku-hen-dublado/sd/2.mp4",
+                    "url": "https://lightspeedst.net/s4/mp4/kimetsu-no-yaiba-mugen-ressha-hen-dublado/sd/2.mp4",
                     "quality": "HD"
                   }
                 ],
@@ -431,7 +431,7 @@
                 "videos": [
                   {
                     "videoType": "MP4",
-                    "url": "https://lightspeedst.net/s4/mp4/kimetsu-no-yaiba-yuukaku-hen-dublado/sd/3.mp4",
+                    "url": "https://lightspeedst.net/s4/mp4/kimetsu-no-yaiba-mugen-ressha-hen-dublado/sd/3.mp4",
                     "quality": "HD"
                   }
                 ],
@@ -460,7 +460,7 @@
                 "videos": [
                   {
                     "videoType": "MP4",
-                    "url": "https://lightspeedst.net/s4/mp4/kimetsu-no-yaiba-yuukaku-hen-dublado/sd/4.mp4",
+                    "url": "https://lightspeedst.net/s4/mp4/kimetsu-no-yaiba-mugen-ressha-hen-dublado/sd/4.mp4",
                     "quality": "HD"
                   }
                 ],
@@ -490,7 +490,7 @@
                 "videos": [
                   {
                     "videoType": "MP4",
-                    "url": "https://lightspeedst.net/s4/mp4/kimetsu-no-yaiba-yuukaku-hen-dublado/sd/5.mp4",
+                    "url": "https://lightspeedst.net/s4/mp4/kimetsu-no-yaiba-mugen-ressha-hen-dublado/sd/5.mp4",
                     "quality": "HD"
                   }
                 ],
@@ -521,7 +521,7 @@
                 "videos": [
                   {
                     "videoType": "MP4",
-                    "url": "https://lightspeedst.net/s4/mp4/kimetsu-no-yaiba-yuukaku-hen-dublado/sd/6.mp4",
+                    "url": "https://lightspeedst.net/s4/mp4/kimetsu-no-yaiba-mugen-ressha-hen-dublado/sd/6.mp4",
                     "quality": "HD"
                   }
                 ],
@@ -593,7 +593,7 @@
                 "videos": [
                   {
                     "videoType": "MP4",
-                    "url": "https://lightspeedst.net/s4/mp4/kimetsu-no-yaiba-yuukaku-hen-dublado/sd/7.mp4",
+                    "url": "https://lightspeedst.net/s4/mp4/kimetsu-no-yaiba-mugen-ressha-hen-dublado/sd/7.mp4",
                     "quality": "HD"
                   }
                 ],
@@ -614,106 +614,16 @@
             
             
             
-         
-              
-             {
-              "id": "rsg-unit2-developerSetup",
-              "title": "CAPITULO 8",
-              "episodeNumber": 8,
-              "content": {
-                "dateAdded": "2020-05-07T02:32:24Z",
-                "videos": [
-                  {
-                    "videoType": "MP4",
-                    "url": "https://lightspeedst.net/s4/mp4/kimetsu-no-yaiba-yuukaku-hen-dublado/sd/8.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 131,
-                "language": "en-us"
-              },
-              "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/kemetsu_segunda_tempo.jpg?v=1709590677555",
-              "shortDescription": "Start developing for the Roku platform. This lesson explains the first steps.",
-              "releaseDate": "2020-05-07",
-              "longDescription": "Start developing for the Roku platform. This lesson explains the first steps, which includes creating the required user and developer accounts and enabling your test Roku device for development. Once you're done, you can sideload Roku's Hello World channel and view its output in the debug console.",
-              "tags": [
-                "RSG"
-              ],
-              "genres": [
-                "educational"
-              ]
-            },
-            
-            
-               {
-              "id": "rsg-unit2-developerSetup",
-              "title": "CAPITULO 9",
-              "episodeNumber": 9,
-              "content": {
-                "dateAdded": "2020-05-07T02:32:24Z",
-                "videos": [
-                  {
-                    "videoType": "MP4",
-                    "url": "https://lightspeedst.net/s4/mp4/kimetsu-no-yaiba-yuukaku-hen-dublado/sd/9.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 131,
-                "language": "en-us"
-              },
-              "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/kemetsu_segunda_tempo.jpg?v=1709590677555",
-              "shortDescription": "Start developing for the Roku platform. This lesson explains the first steps.",
-              "releaseDate": "2020-05-07",
-              "longDescription": "Start developing for the Roku platform. This lesson explains the first steps, which includes creating the required user and developer accounts and enabling your test Roku device for development. Once you're done, you can sideload Roku's Hello World channel and view its output in the debug console.",
-              "tags": [
-                "RSG"
-              ],
-              "genres": [
-                "educational"
-              ]
-            },
-            
-            
-              {
-              "id": "rsg-unit2-developerSetup",
-              "title": "CAPITULO 10",
-              "episodeNumber": 10,
-              "content": {
-                "dateAdded": "2020-05-07T02:32:24Z",
-                "videos": [
-                  {
-                    "videoType": "MP4",
-                    "url": "https://lightspeedst.net/s4/mp4/kimetsu-no-yaiba-yuukaku-hen-dublado/sd/10.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 131,
-                "language": "en-us"
-              },
-              "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/kemetsu_segunda_tempo.jpg?v=1709590677555",
-              "shortDescription": "Start developing for the Roku platform. This lesson explains the first steps.",
-              "releaseDate": "2020-05-07",
-              "longDescription": "Start developing for the Roku platform. This lesson explains the first steps, which includes creating the required user and developer accounts and enabling your test Roku device for development. Once you're done, you can sideload Roku's Hello World channel and view its output in the debug console.",
-              "tags": [
-                "RSG"
-              ],
-              "genres": [
-                "educational"
-              ]
-            },
-            
-            
-            
-             {
+           {
               "id": "video6-video-player",
-              "title": "CAPITULO 11",
+              "title": "CAPITULO 8",
               "episodeNumber": 11,
               "content": {
                 "dateAdded": "2020-05-07T02:32:24Z",
                 "videos": [
                   {
                     "videoType": "MP4",
-                    "url": "https://lightspeedst.net/s4/mp4/kimetsu-no-yaiba-yuukaku-hen-dublado/sd/11.mp4",
+                    "url": "https://lightspeedst.net/s4/mp4/kimetsu-no-yaiba-mugen-ressha-hen-dublado/sd/7.mp4",
                     "quality": "HD"
                   }
                 ],
