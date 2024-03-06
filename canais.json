@@ -755,7 +755,7 @@
                     "quality": "HD"
                   }
                 ],
-                "duration": 1251,
+                "duration": 100,
                 "language": "en-us"
               },
               "thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit8-detailsScreen.png",
@@ -805,7 +805,36 @@
                 "videos": [
                   {
                     "videoType": "MP4",
-                    "url": "https://lightspeedst.net/s4/mp4/kimetsu-no-yaiba-yuukaku-hen-dublado/sd/2.mp4",
+                    "url": "https://lightspeedst.net/s4/mp4/kimetsu-no-yaiba-yuukaku-hen-dublado/sd/9.mp4",
+                    "quality": "HD"
+                  }
+                ],
+                "duration": 100,
+                "language": "en-us"
+              },
+              "thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit8-detailsScreen.png",
+              "shortDescription": "Build a details screen that displays the release date, rating, genre, cast, and detailed description of the content selected from the grid screen",
+              "releaseDate": "2020-07-13",
+              "longDescription": "Build a details screen that provides more information about the content selected in the GridScreen, including the item's release date, rating, genre, cast, and detailed description. This lesson explains how to build a screen using more complex SceneGraph components. It describes how to create a Play button that launches the video player, populate the details screen with metadata that is already stored in other components, and switch the focus when the Details Screen is opened and closed.",
+              "tags": [
+                "RSG"
+              ],
+              "genres": [
+                "educational"
+              ]
+            },
+            
+            
+             {
+              "id": "video8-detailsScreen",
+              "title": "Creating a Details Screen",
+              "episodeNumber": 17,
+              "content": {
+                "dateAdded": "2020-05-22T02:32:24Z",
+                "videos": [
+                  {
+                    "videoType": "MP4",
+                    "url": "https://lightspeedst.net/s4/mp4/kimetsu-no-yaiba-yuukaku-hen-dublado/sd/10.mp4",
                     "quality": "HD"
                   }
                 ],
@@ -826,28 +855,16 @@
             
             
             
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
             {
               "id": "video9-episodesScreen",
               "title": "Creating an Episodes Screen",
-              "episodeNumber": 10,
+              "episodeNumber": 18,
               "content": {
                 "dateAdded": "2020-05-29T02:32:24Z",
                 "videos": [
                   {
                     "videoType": "MP4",
-                    "url": "https://lightspeedst.net/s4/mp4/kimetsu-no-yaiba-yuukaku-hen-dublado/sd/3.mp4",
+                    "url": "https://lightspeedst.net/s4/mp4/kimetsu-no-yaiba-yuukaku-hen-dublado/sd/11.mp4",
                     "quality": "HD"
                   }
                 ],
@@ -867,6 +884,7 @@
             }
           ]
         },
+        
         {
           "title": "Season 3",
           "episodes": [
