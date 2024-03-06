@@ -1136,69 +1136,81 @@
     }
  
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-  ]}
+    ],
+
+
+
+  
+   "Filmes": [
+    {
+      "longDescription": "Vingadores: Ultimato é um filme de ação e aventura que traz o clímax épico da saga dos super-heróis da Marvel. Após os eventos devastadores de Vingadores: Guerra Infinita, onde metade da população do universo foi dizimada pelo vilão Thanos, os heróis remanescentes se unem em uma última tentativa desesperada de reverter o caos e trazer de volta seus entes queridos. Com uma viagem no tempo como última esperança, os Vingadores enfrentam grandes desafios e sacrifícios, lutando contra o tempo e suas próprias dores pessoais para salvar a humanidade e restaurar a ordem no universo. Em Vingadores: Ultimato, a ideia principal do enredo é a luta pela sobrevivência e o poder do trabalho em equipe. Os heróis precisam superar suas diferenças e unir forças para enfrentar um inimigo poderoso e implacável. A trama envolvente apresenta reviravoltas emocionantes, momentos de tensão e cenas de ação eletrizantes, criando uma narrativa cativante que mantém o espectador preso à tela do início ao fim. Com personagens icônicos, efeitos visuais impressionantes e uma história repleta de emoção, Vingadores: Ultimato é uma verdadeira celebração do universo Marvel e uma conclusão épica para essa jornada cinematográfica.",
+      "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa_viland_saga.jpg?v=1709197421870",
+      "releaseDate": "2020-01-20",
+      "genres": [
+        "filmes"
+      ],
+      "tags": [
+        "demo"
+      ],
+      "id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
+      "shortDescription": "Vingadores: Ultimato",
+      "title": "Vingadores: Ultimato",
+      "content": {
+        "duration": 713,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://alukard.bio/a1/out/old/6/1321/1321_69084014vingadores-ultimato.m3u8?a=1",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
+      
+     {
+      "longDescription": "Vingadores: Guerra Infinita é um épico cinematográfico que reúne os heróis mais poderosos da Terra em uma batalha contra o vilão Thanos. Com uma trama intricada e emocionante, o filme aborda a luta dos Vingadores para impedir que Thanos obtenha todas as seis Joias do Infinito, artefatos com poderes inimagináveis que podem mudar o destino do universo. Enquanto os heróis se unem e enfrentam desafios inimagináveis, eles precisam tomar decisões difíceis e sacrificar tudo o que têm para deter o tirano intergaláctico. Com cenas de ação de tirar o fôlego e um elenco estelar, Vingadores: Guerra Infinita é uma jornada emocionante e intensa que mantém o público grudado na cadeira, ansioso para descobrir o desfecho dessa batalha épica.",
+      "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa_viland_saga.jpg?v=1709197421870",
+      "releaseDate": "2020-01-20",
+     
+     
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "demo"
+      ],
+      "id": "shortform-roku-development-overview",
+      "shortDescription": "Vingadores: Guerra Infinita",
+      "title": "Vingadores: Guerra Infinita",
+      "content": {
+        "duration": 576,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "https://alukard.bio/a1/out/old/6/1065/1065_15784080vingadores-guerra-infinita-part1.m3u8?a=1",
+            "quality": "SD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+   }]
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+}
