@@ -9,6 +9,560 @@
       
       
   "series": [
+    
+    
+    
+    
+    
+    {
+      "id": "series_1_tips",
+      "title": "Vinland saga",
+      "releaseDate": "2020-03-15T02:01:00+02:00",
+      "shortDescription": "Com o anjo final derrotado, Nerv tem um último inimigo a ser enfrentado - os humanos sob o comando de Seele",
+      "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa_viland_saga.jpg?v=1709205876345",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "tips"
+      ],
+      
+    "seasons": [
+  {
+  "title": "Season 1",
+  "episodes": [
+  {
+  "id": "shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4",
+  "title": "CAPITULO 1",
+  "episodeNumber": 1,
+  "content": {
+  "dateAdded": "2020-03-06T20:25:52Z",
+  "videos": [
+  {
+   "videoType": "MP4",
+   "url": "https://lightspeedst.net/s1/mp4/vinland-saga-dublado/sd/1.mp4",
+   "quality": "HD"
+  }
+  ],
+  "duration": 187,
+                
+                "captions": [
+                  {
+                    "language": "en",
+                    "captionType": "CLOSED_CAPTION",
+                    "url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4_3/captions/HowToListenToMusic_cc_eng.srt"
+                  },
+                  {
+                    "language": "en",
+                    "captionType": "CLOSED_CAPTION",
+                    "url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4_3/captions/HowToListenToMusic_cc_eng.vtt"
+                  }
+                ],
+                "language": "en-us"
+              },
+              
+              
+              
+              
+              "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa_viland_saga.jpg?v=1709205876345",
+              "shortDescription": "",
+              "releaseDate": "2020-01-02",
+              "longDescription": "Novo tirar",
+              "tags": [
+                "tips"
+              ],
+              "genres": [
+                "educational"
+              ]
+            },
+            
+
+            
+              {
+              "id": "shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9",
+              "title": "Capitulo 2",
+              "episodeNumber": 2,
+              "content": {
+                "dateAdded": "2020-02-04T19:08:55Z",
+                "videos": [
+                  {
+                    "videoType": "MP4",
+                    "url": "https://lightspeedst.net/s1/mp4/vinland-saga-dublado/sd/2.mp4",
+                    "quality": "SD"
+                  }
+                ],
+                "duration": 134,
+                "captions": [
+                  {
+                    "language": "en",
+                    "captionType": "CLOSED_CAPTION",
+                    "url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.srt"
+                  },
+                  {
+                    "language": "en",
+                    "captionType": "CLOSED_CAPTION",
+                    "url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.vtt"
+                  }
+                ],
+                "language": "en-us"
+              },
+              "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa_viland_saga.jpg?v=1709205876345",
+              "shortDescription": "Find the best placement of your Roku audio devices",
+              "releaseDate": "2020-01-02",
+              "longDescription": "Espisodio 2",
+              "tags": [
+                "tips"
+              ],
+              "genres": [
+                "educational"
+              ]
+            },
+            
+              {
+              "id": "shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9",
+              "title": "Capitulo 3",
+              "episodeNumber": 3,
+              "content": {
+                "dateAdded": "2020-02-04T19:08:55Z",
+                "videos": [
+                  {
+                    "videoType": "MP4",
+                    "url": "https://lightspeedst.net/s1/mp4/vinland-saga-dublado/sd/3.mp4",
+                    "quality": "SD"
+                  }
+                ],
+                "duration": 134,
+                "captions": [
+                  {
+                    "language": "en",
+                    "captionType": "CLOSED_CAPTION",
+                    "url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.srt"
+                  },
+                  {
+                    "language": "en",
+                    "captionType": "CLOSED_CAPTION",
+                    "url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.vtt"
+                  }
+                ],
+                "language": "en-us"
+              },
+              "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa_viland_saga.jpg?v=1709205876345",
+              "shortDescription": "Find the best placement of your Roku audio devices",
+              "releaseDate": "2020-01-02",
+              "longDescription": "Espisodio 2",
+              "tags": [
+                "tips"
+              ],
+              "genres": [
+                "educational"
+              ]
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+          ]
+        },
+        
+        
+        
+        
+        {
+          "title": "Season 2",
+          "episodes": [
+            {
+              "id": "shortform-cb6dc73fb84bf7f0d35b99b83217f2dbc9bc08d5",
+              "title": "Guest Mode",
+              "episodeNumber": 1,
+              "content": {
+                "dateAdded": "2020-01-29T02:32:18Z",
+                "videos": [
+                  {
+                    "videoType": "HLS",
+                    "url": "https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8",
+                    "quality": "HD"
+                  }
+                ],
+                "duration": 15,
+                "captions": [
+                  {
+                    "language": "en",
+                    "captionType": "CLOSED_CAPTION",
+                    "url": "https://d6hm6c1vbpf7f2dbc9bc08d5_1/captions/GUEST_MODE_cc_eng.srt"
+                  },
+                  {
+                    "language": "en",
+                    "captionType": "CLOSED_CAPTION",
+                    "url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-cb6dc73fb84bf7f0d35b99b83217f2dbc9bc08d5_1/captions/GUEST_MODE_cc_eng.vtt"
+                  }
+                ],
+                "language": "en-us"
+              },
+              "thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-cb6dc73fb84bf7f0d35b99b83217f2dbc9bc08d5_1/images/GUEST_MODE.jpg",
+              "shortDescription": "Let your guests stream with their own accounts",
+              "releaseDate": "2019-12-03",
+              "longDescription": "Let your guests stream with their own accounts",
+              "tags": [
+                "tips"
+              ],
+              "genres": [
+                "educational"
+              ]
+            },
+            
+            
+             {
+              "id": "shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9xx",
+              "title": "Capitulo 2",
+              "episodeNumber": 2,
+              "content": {
+                "dateAdded": "2020-02-04T19:08:55Z",
+                "videos": [
+                  {
+                    "videoType": "HLS",
+                    "url": "https://vod.cf.dmcdn.net/sec2(l6-5Q3CWcWgJzUVQIL2xaEWVIWKxlR_LoZF-sSErmtQb9547S2Rbn8aEfDc1aI8ncyMb1qqwdR2UsLj_3j13gbeXNWEz5xxWAhpaqq38is3vzqAVJv_wZyOELvvCtKeTOPhRcjF-nUD94WlrsB62ow)/video/900/100/510001009_mp4_h264_aac_hq.m3u8#cell=cf",
+                    "quality": "HD"
+                  }
+                ],
+                "duration": 134,
+                "captions": [
+                  {
+                    "language": "en",
+                    "captionType": "CLOSED_CAPTION",
+                    "url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.srt"
+                  },
+                  {
+                    "language": "en",
+                    "captionType": "CLOSED_CAPTION",
+                    "url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.vtt"
+                  }
+                ],
+                "language": "en-us"
+              },
+              "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa_viland_saga.jpg?v=1709205876345",
+              "shortDescription": "Find the best placement of your Roku audio devices",
+              "releaseDate": "2020-01-02",
+              "longDescription": "Espisodio 2",
+              "tags": [
+                "tips"
+              ],
+              "genres": [
+                "educational"
+              ]
+            },
+            
+            
+            
+              {
+              "id": "shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9",
+              "title": "Capitulo 2",
+              "episodeNumber": 3,
+              "content": {
+                "dateAdded": "2020-02-04T19:08:55Z",
+                "videos": [
+                  {
+                    "videoType": "HLS",
+                    "url": "http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3922",
+                    "quality": "SD"
+                  }
+                ],
+                "duration": 134,
+                "captions": [
+                  {
+                    "language": "en",
+                    "captionType": "CLOSED_CAPTION",
+                    "url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.srt"
+                  },
+                  {
+                    "language": "en",
+                    "captionType": "CLOSED_CAPTION",
+                    "url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.vtt"
+                  }
+                ],
+                "language": "en-us"
+              },
+              "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa_viland_saga.jpg?v=1709205876345",
+              "shortDescription": "Find the best placement of your Roku audio devices",
+              "releaseDate": "2020-01-02",
+              "longDescription": "Espisodio 2",
+              "tags": [
+                "tips"
+              ],
+              "genres": [
+                "educational"
+              ]
+            },
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            {
+              "id": "shortform-6f2088297f82e02e74e07341fd404750b56e2fbb",
+              "title": "Private Listening",
+              "episodeNumber": 4,
+              "content": {
+                "dateAdded": "2020-03-06T20:43:17Z",
+                "videos": [
+                  {
+                    "videoType": "HLS",
+                    "url": "http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/3922",
+                    "quality": "HD"
+                  }
+                ],
+                "duration": 30,
+                "captions": [
+                  {
+                    "language": "en",
+                    "captionType": "CLOSED_CAPTION",
+                    "url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-6f2088297f82e02e74e07341fd404750b56e2fbb_2/captions/ROKU_PRIVATE_LISTENING_012219_cc_eng.srt"
+                  },
+                  {
+                    "language": "en",
+                    "captionType": "CLOSED_CAPTION",
+                    "url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-6f2088297f82e02e74e07341fd404750b56e2fbb_2/captions/ROKU_PRIVATE_LISTENING_012219_cc_eng.vtt"
+                  }
+                ],
+                "language": "en-us"
+              },
+              "thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-6f2088297f82e02e74e07341fd404750b56e2fbb_2/images/ROKU_PRIVATE_LISTENING_012219.jpg",
+              "shortDescription": "See the benefits of the Private Listening",
+              "releaseDate": "2019-10-15",
+              "longDescription": "See the benefits of the Private Listening",
+              "tags": [
+                "tips"
+              ],
+              "genres": [
+                "educational"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    
+    
+    
+   
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    {
+      "id": "series_2_RSG",
+      "title": "kimetsu no yaiba",
+      "releaseDate": "2020-03-15T02:01:00+02:00",
+      "shortDescription": "Desde a mor de Tanjirou ha remota, a família Kamado pode desfrutar de uma vida relativamente tranquila e feliz. Um dia, Tanjirou decide descer à aldeia local para ganhar algum dinheiro vendendo carvão.",
+      "thumbnail":  "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa_kimetsu_seg.jpg?v=1709647552877",
+            
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "RSG"
+      ],
+      "seasons": [
+        {
+          "title": "Season 1",
+          "episodes": [
+            {
+              "id": "rsg_unit1_intro",
+              "title": "Capitulo 1",
+              "episodeNumber": 1,
+              "content": {
+                "dateAdded": "2020-05-07T02:32:24Z",
+                "videos": [
+                  {
+                    "videoType": "MP4",
+                    "url": "https://lightspeedst.net/s4/mp4/kimetsu-no-yaiba-yuukaku-hen-dublado/sd/1.mp4",
+                    "quality": "HD"
+                  }
+                ],
+                "duration": 178,
+                "language": "en-us"
+              },
+              "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/kemetsu_segunda_tempo.jpg?v=1709590677555",
+              "shortDescription": "Watch the introduction to the \"SceneGraph: Build a Channel\" development course. This video outlines the course syllabus.",
+              "releaseDate": "2020-05-07",
+              "longDescription": "Watch the introduction to the \"SceneGraph: Build a Channel\" development course. This video outlines the course syllabus.",
+              "tags": [
+                "RSG"
+              ],
+              "genres": [
+                "educational"
+              ]
+            },
+      
+            
+            
+            
+            {
+              "id": "rsg-unit2-developerSetup",
+              "title": "CAPITULO 2",
+              "episodeNumber": 2,
+              "content": {
+                "dateAdded": "2020-05-07T02:32:24Z",
+                "videos": [
+                  {
+                    "videoType": "MP4",
+                    "url": "https://lightspeedst.net/s4/mp4/kimetsu-no-yaiba-yuukaku-hen-dublado/sd/2.mp4",
+                    "quality": "HD"
+                  }
+                ],
+                "duration": 131,
+                "language": "en-us"
+              },
+              "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/kemetsu_segunda_tempo.jpg?v=1709590677555",
+              "shortDescription": "Start developing for the Roku platform. This lesson explains the first steps.",
+              "releaseDate": "2020-05-07",
+              "longDescription": "Start developing for the Roku platform. This lesson explains the first steps, which includes creating the required user and developer accounts and enabling your test Roku device for development. Once you're done, you can sideload Roku's Hello World channel and view its output in the debug console.",
+              "tags": [
+                "RSG"
+              ],
+              "genres": [
+                "educational"
+              ]
+            },
+            
+            
+               {
+              "id": "rsg-unit2-developerSetup",
+              "title": "CAPITULO 3",
+              "episodeNumber": 3,
+              "content": {
+                "dateAdded": "2020-05-07T02:32:24Z",
+                "videos": [
+                  {
+                    "videoType": "MP4",
+                    "url": "https://lightspeedst.net/s4/mp4/kimetsu-no-yaiba-yuukaku-hen-dublado/sd/3.mp4",
+                    "quality": "HD"
+                  }
+                ],
+                "duration": 131,
+                "language": "en-us"
+              },
+              "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/kemetsu_segunda_tempo.jpg?v=1709590677555",
+              "shortDescription": "Start developing for the Roku platform. This lesson explains the first steps.",
+              "releaseDate": "2020-05-07",
+              "longDescription": "Start developing for the Roku platform. This lesson explains the first steps, which includes creating the required user and developer accounts and enabling your test Roku device for development. Once you're done, you can sideload Roku's Hello World channel and view its output in the debug console.",
+              "tags": [
+                "RSG"
+              ],
+              "genres": [
+                "educational"
+              ]
+            },
+            
+            
+              {
+              "id": "rsg-unit2-developerSetup",
+              "title": "CAPITULO 4",
+              "episodeNumber": 4,
+              "content": {
+                "dateAdded": "2020-05-07T02:32:24Z",
+                "videos": [
+                  {
+                    "videoType": "MP4",
+                    "url": "https://lightspeedst.net/s4/mp4/kimetsu-no-yaiba-yuukaku-hen-dublado/sd/4.mp4",
+                    "quality": "HD"
+                  }
+                ],
+                "duration": 131,
+                "language": "en-us"
+              },
+              "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/kimetsu_no_yaiba_capa.jpg?v=1709216047482",
+              "shortDescription": "Start developing for the Roku platform. This lesson explains the first steps.",
+              "releaseDate": "2020-05-07",
+              "longDescription": "Start developing for the Roku platform. This lesson explains the first steps, which includes creating the required user and developer accounts and enabling your test Roku device for development. Once you're done, you can sideload Roku's Hello World channel and view its output in the debug console.",
+              "tags": [
+                "RSG"
+              ],
+              "genres": [
+                "educational"
+              ]
+            },
+            
+            
+            
+             {
+              "id": "rsg-unit2-developerSetup",
+              "title": "CAPITULO 5",
+              "episodeNumber": 5,
+              "content": {
+                "dateAdded": "2020-05-07T02:32:24Z",
+                "videos": [
+                  {
+                    "videoType": "MP4",
+                    "url": "https://lightspeedst.net/s4/mp4/kimetsu-no-yaiba-yuukaku-hen-dublado/sd/5.mp4",
+                    "quality": "HD"
+                  }
+                ],
+                "duration": 131,
+                "language": "en-us"
+              },
+              "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/kemetsu_segunda_tempo.jpg?v=1709590677555",
+              "shortDescription": "Start developing for the Roku platform. This lesson explains the first steps.",
+              "releaseDate": "2020-05-07",
+              "longDescription": "Start developing for the Roku platform. This lesson explains the first steps, which includes creating the required user and developer accounts and enabling your test Roku device for development. Once you're done, you can sideload Roku's Hello World channel and view its output in the debug console.",
+              "tags": [
+                "RSG"
+              ],
+              "genres": [
+                "educational"
+              ]
+            },
+            
+            
+            
+          
+               {
+              "id": "rsg-unit2-developerSetup",
+              "title": "CAPITULO 6",
+              "episodeNumber": 6,
+              "content": {
+                "dateAdded": "2020-05-07T02:32:24Z",
+                "videos": [
+                  {
+                    "videoType": "MP4",
+                    "url": "https://lightspeedst.net/s4/mp4/kimetsu-no-yaiba-yuukaku-hen-dublado/sd/6.mp4",
+                    "quality": "HD"
+                  }
+                ],
+                "duration": 131,
+                "language": "en-us"
+              },
+              "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/kemetsu_segunda_tempo.jpg?v=1709590677555",
+              "shortDescription": "Start developing for the Roku platform. This lesson explains the first steps.",
+              "releaseDate": "2020-05-07",
+              "longDescription": "Start developing for the Roku platform. This lesson explains the first steps, which includes creating the required user and developer accounts and enabling your test Roku device for development. Once you're done, you can sideload Roku's Hello World channel and view its output in the debug console.",
+              "tags": [
+                "RSG"
+              ],
+              "genres": [
+                "educational"
+              ]
+            },
+            
+            
+            
+            
+             
     {
       "id": "series_1_tips",
       "title": "Vinland saga",
@@ -355,201 +909,35 @@
     
     
     
-    
-    {
-      "id": "series_2_RSG",
-      "title": "kimetsu no yaiba",
-      "releaseDate": "2020-03-15T02:01:00+02:00",
-      "shortDescription": "Desde a mor de Tanjirou ha remota, a família Kamado pode desfrutar de uma vida relativamente tranquila e feliz. Um dia, Tanjirou decide descer à aldeia local para ganhar algum dinheiro vendendo carvão.",
-      "thumbnail":  "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa_kimetsu_seg.jpg?v=1709647552877",
-            
-      "genres": [
-        "educational"
-      ],
-      "tags": [
-        "RSG"
-      ],
-      "seasons": [
-        {
-          "title": "Season 1",
-          "episodes": [
-            {
-              "id": "rsg_unit1_intro",
-              "title": "Capitulo 1",
-              "episodeNumber": 1,
-              "content": {
-                "dateAdded": "2020-05-07T02:32:24Z",
-                "videos": [
-                  {
-                    "videoType": "MP4",
-                    "url": "https://lightspeedst.net/s4/mp4/kimetsu-no-yaiba-yuukaku-hen-dublado/sd/1.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 178,
-                "language": "en-us"
-              },
-              "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/kemetsu_segunda_tempo.jpg?v=1709590677555",
-              "shortDescription": "Watch the introduction to the \"SceneGraph: Build a Channel\" development course. This video outlines the course syllabus.",
-              "releaseDate": "2020-05-07",
-              "longDescription": "Watch the introduction to the \"SceneGraph: Build a Channel\" development course. This video outlines the course syllabus.",
-              "tags": [
-                "RSG"
-              ],
-              "genres": [
-                "educational"
-              ]
-            },
-      
+     
             
             
             
-            {
-              "id": "rsg-unit2-developerSetup",
-              "title": "CAPITULO 2",
-              "episodeNumber": 2,
-              "content": {
-                "dateAdded": "2020-05-07T02:32:24Z",
-                "videos": [
-                  {
-                    "videoType": "MP4",
-                    "url": "https://lightspeedst.net/s4/mp4/kimetsu-no-yaiba-yuukaku-hen-dublado/sd/2.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 131,
-                "language": "en-us"
-              },
-              "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/kemetsu_segunda_tempo.jpg?v=1709590677555",
-              "shortDescription": "Start developing for the Roku platform. This lesson explains the first steps.",
-              "releaseDate": "2020-05-07",
-              "longDescription": "Start developing for the Roku platform. This lesson explains the first steps, which includes creating the required user and developer accounts and enabling your test Roku device for development. Once you're done, you can sideload Roku's Hello World channel and view its output in the debug console.",
-              "tags": [
-                "RSG"
-              ],
-              "genres": [
-                "educational"
-              ]
-            },
-            
-            
-               {
-              "id": "rsg-unit2-developerSetup",
-              "title": "CAPITULO 3",
-              "episodeNumber": 3,
-              "content": {
-                "dateAdded": "2020-05-07T02:32:24Z",
-                "videos": [
-                  {
-                    "videoType": "MP4",
-                    "url": "https://lightspeedst.net/s4/mp4/kimetsu-no-yaiba-yuukaku-hen-dublado/sd/3.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 131,
-                "language": "en-us"
-              },
-              "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/kemetsu_segunda_tempo.jpg?v=1709590677555",
-              "shortDescription": "Start developing for the Roku platform. This lesson explains the first steps.",
-              "releaseDate": "2020-05-07",
-              "longDescription": "Start developing for the Roku platform. This lesson explains the first steps, which includes creating the required user and developer accounts and enabling your test Roku device for development. Once you're done, you can sideload Roku's Hello World channel and view its output in the debug console.",
-              "tags": [
-                "RSG"
-              ],
-              "genres": [
-                "educational"
-              ]
-            },
-            
-            
-              {
-              "id": "rsg-unit2-developerSetup",
-              "title": "CAPITULO 4",
-              "episodeNumber": 4,
-              "content": {
-                "dateAdded": "2020-05-07T02:32:24Z",
-                "videos": [
-                  {
-                    "videoType": "MP4",
-                    "url": "https://lightspeedst.net/s4/mp4/kimetsu-no-yaiba-yuukaku-hen-dublado/sd/4.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 131,
-                "language": "en-us"
-              },
-              "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/kimetsu_no_yaiba_capa.jpg?v=1709216047482",
-              "shortDescription": "Start developing for the Roku platform. This lesson explains the first steps.",
-              "releaseDate": "2020-05-07",
-              "longDescription": "Start developing for the Roku platform. This lesson explains the first steps, which includes creating the required user and developer accounts and enabling your test Roku device for development. Once you're done, you can sideload Roku's Hello World channel and view its output in the debug console.",
-              "tags": [
-                "RSG"
-              ],
-              "genres": [
-                "educational"
-              ]
-            },
             
             
             
-             {
-              "id": "rsg-unit2-developerSetup",
-              "title": "CAPITULO 5",
-              "episodeNumber": 5,
-              "content": {
-                "dateAdded": "2020-05-07T02:32:24Z",
-                "videos": [
-                  {
-                    "videoType": "MP4",
-                    "url": "https://lightspeedst.net/s4/mp4/kimetsu-no-yaiba-yuukaku-hen-dublado/sd/5.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 131,
-                "language": "en-us"
-              },
-              "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/kemetsu_segunda_tempo.jpg?v=1709590677555",
-              "shortDescription": "Start developing for the Roku platform. This lesson explains the first steps.",
-              "releaseDate": "2020-05-07",
-              "longDescription": "Start developing for the Roku platform. This lesson explains the first steps, which includes creating the required user and developer accounts and enabling your test Roku device for development. Once you're done, you can sideload Roku's Hello World channel and view its output in the debug console.",
-              "tags": [
-                "RSG"
-              ],
-              "genres": [
-                "educational"
-              ]
-            },
             
             
             
-          
-               {
-              "id": "rsg-unit2-developerSetup",
-              "title": "CAPITULO 6",
-              "episodeNumber": 6,
-              "content": {
-                "dateAdded": "2020-05-07T02:32:24Z",
-                "videos": [
-                  {
-                    "videoType": "MP4",
-                    "url": "https://lightspeedst.net/s4/mp4/kimetsu-no-yaiba-yuukaku-hen-dublado/sd/6.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 131,
-                "language": "en-us"
-              },
-              "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/kemetsu_segunda_tempo.jpg?v=1709590677555",
-              "shortDescription": "Start developing for the Roku platform. This lesson explains the first steps.",
-              "releaseDate": "2020-05-07",
-              "longDescription": "Start developing for the Roku platform. This lesson explains the first steps, which includes creating the required user and developer accounts and enabling your test Roku device for development. Once you're done, you can sideload Roku's Hello World channel and view its output in the debug console.",
-              "tags": [
-                "RSG"
-              ],
-              "genres": [
-                "educational"
-              ]
-            },
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
             
             
             
