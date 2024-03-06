@@ -358,7 +358,104 @@
       "tags": [
         "RSG"
       ],
+      
+      
+      
+      
+      
       "seasons": [
+        
+        
+        
+        
+       {
+          "title": "Season 1",
+          "episodes": [
+            {
+              "id": "video7-debugger",
+              "title": "Debugging channels",
+              "episodeNumber": 1,
+              "content": {
+                "dateAdded": "2020-05-16T02:32:24Z",
+                "videos": [
+                  {
+                    "videoType": "MP4",
+                    "url": "https://lightspeedst.net/s1/mp4/kimetsu-no-yaiba-mugen-ressha-hen/sd/10.mp4",
+                    "quality": "HD"
+                  }
+                ],
+                "duration": 381,
+                "language": "en-us"
+              },
+              "thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit7-debugging.png",
+              "shortDescription": "Debug Roku channels using the debug console",
+              "releaseDate": "2020-05-13",
+              "longDescription": "Debug Roku channels using the debug console. This lesson teaches you how to access the debug console via Telnet and the Roku Eclipse Plug-in and use the different debug ports. It explains how to view the crash logs, stack traces, and channel performance metrics in the console, and how to use the interactive debugger to type commands for checking and updating variable values, calling functions, and stepping through the application.",
+              "tags": [
+                "RSG"
+              ],
+              "genres": [
+                "educational"
+              ]
+            },
+            {
+              "id": "video8-detailsScreen",
+              "title": "Creating a Details Screen",
+              "episodeNumber": 2,
+              "content": {
+                "dateAdded": "2020-05-22T02:32:24Z",
+                "videos": [
+                  {
+                    "videoType": "MP4",
+                    "url": "https://lightspeedst.net/s1/mp4/kimetsu-no-yaiba-mugen-ressha-hen/sd/2.mp4",
+                    "quality": "HD"
+                  }
+                ],
+                "duration": 1251,
+                "language": "en-us"
+              },
+              "thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit8-detailsScreen.png",
+              "shortDescription": "Build a details screen that displays the release date, rating, genre, cast, and detailed description of the content selected from the grid screen",
+              "releaseDate": "2020-07-13",
+              "longDescription": "Build a details screen that provides more information about the content selected in the GridScreen, including the item's release date, rating, genre, cast, and detailed description. This lesson explains how to build a screen using more complex SceneGraph components. It describes how to create a Play button that launches the video player, populate the details screen with metadata that is already stored in other components, and switch the focus when the Details Screen is opened and closed.",
+              "tags": [
+                "RSG"
+              ],
+              "genres": [
+                "educational"
+              ]
+            },
+            {
+              "id": "video9-episodesScreen",
+              "title": "Creating an Episodes Screen",
+              "episodeNumber": 3,
+              "content": {
+                "dateAdded": "2020-05-29T02:32:24Z",
+                "videos": [
+                  {
+                    "videoType": "MP4",
+                    "url": "https://lightspeedst.net/s1/mp4_temp/kimetsu-no-yaiba-mugen-ressha-hen/3/480p.mp4",
+                    "quality": "HD"
+                  }
+                ],
+                "duration": 2188,
+                "language": "en-us"
+              },
+              "thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit9-episodesScreen.png",
+              "shortDescription": "Build an episodes screen that organizes television series into seasons and episodes.",
+              "releaseDate": "2020-05-29",
+              "longDescription": "Build an episodes screen that organizes television series into seasons and episodes. The left side of the screen displays the seasons; the right side of the screen lists the episodes in the selected season. This lesson explains how to use new components such as the MarkupList and further layer components to create more complex UIs. It shows how to parse the content feed to populate an episode screen with sequentially numbered seasons and the episodes that belong in those seasons.",
+              "tags": [
+                "RSG"
+              ],
+              "genres": [
+                "educational"
+              ]
+            }
+          ]
+        },
+        
+        
         {
           "title": "Season 1",
           "episodes": [
@@ -541,49 +638,11 @@
             },
             
             
-            
-        
-       
-    
-    
-    
-     
+           
             
             
             
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-      
-            
+ 
              {
               "id": "rsg-unit2-developerSetup",
               "title": "CAPITULO 7",
@@ -736,92 +795,41 @@
         
         
         
-        {
-          "title": "Season 2",
-          "episodes": [
-            {
-              "id": "video7-debugger",
-              "title": "Debugging channels",
-              "episodeNumber": 1,
-              "content": {
-                "dateAdded": "2020-05-16T02:32:24Z",
-                "videos": [
-                  {
-                    "videoType": "MP4",
-                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit7-debugger-v3.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 381,
-                "language": "en-us"
-              },
-              "thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit7-debugging.png",
-              "shortDescription": "Debug Roku channels using the debug console",
-              "releaseDate": "2020-05-13",
-              "longDescription": "Debug Roku channels using the debug console. This lesson teaches you how to access the debug console via Telnet and the Roku Eclipse Plug-in and use the different debug ports. It explains how to view the crash logs, stack traces, and channel performance metrics in the console, and how to use the interactive debugger to type commands for checking and updating variable values, calling functions, and stepping through the application.",
-              "tags": [
-                "RSG"
-              ],
-              "genres": [
-                "educational"
-              ]
-            },
-            {
-              "id": "video8-detailsScreen",
-              "title": "Creating a Details Screen",
-              "episodeNumber": 2,
-              "content": {
-                "dateAdded": "2020-05-22T02:32:24Z",
-                "videos": [
-                  {
-                    "videoType": "MP4",
-                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit8-details-screen-v3.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 1251,
-                "language": "en-us"
-              },
-              "thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit8-detailsScreen.png",
-              "shortDescription": "Build a details screen that displays the release date, rating, genre, cast, and detailed description of the content selected from the grid screen",
-              "releaseDate": "2020-07-13",
-              "longDescription": "Build a details screen that provides more information about the content selected in the GridScreen, including the item's release date, rating, genre, cast, and detailed description. This lesson explains how to build a screen using more complex SceneGraph components. It describes how to create a Play button that launches the video player, populate the details screen with metadata that is already stored in other components, and switch the focus when the Details Screen is opened and closed.",
-              "tags": [
-                "RSG"
-              ],
-              "genres": [
-                "educational"
-              ]
-            },
-            {
-              "id": "video9-episodesScreen",
-              "title": "Creating an Episodes Screen",
-              "episodeNumber": 3,
-              "content": {
-                "dateAdded": "2020-05-29T02:32:24Z",
-                "videos": [
-                  {
-                    "videoType": "MP4",
-                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit9-episodePicker-v3.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 2188,
-                "language": "en-us"
-              },
-              "thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit9-episodesScreen.png",
-              "shortDescription": "Build an episodes screen that organizes television series into seasons and episodes.",
-              "releaseDate": "2020-05-29",
-              "longDescription": "Build an episodes screen that organizes television series into seasons and episodes. The left side of the screen displays the seasons; the right side of the screen lists the episodes in the selected season. This lesson explains how to use new components such as the MarkupList and further layer components to create more complex UIs. It shows how to parse the content feed to populate an episode screen with sequentially numbered seasons and the episodes that belong in those seasons.",
-              "tags": [
-                "RSG"
-              ],
-              "genres": [
-                "educational"
-              ]
-            }
-          ]
-        },
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         {
           "title": "Season 3",
           "episodes": [
