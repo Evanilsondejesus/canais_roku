@@ -1513,13 +1513,13 @@
       ],
       "id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
       "shortDescription": "Vingadores: Ultimato",
-      "title": "Vingadores: Ultimato",
+      "title": "DISCOVERY_CHANNEL_NX",
       "content": {
         "duration": 713,
         "videos": [
           {
             "videoType": "HLS",
-            "url": "https://alukard.bio/a1/out/old/6/1321/1321_69084014vingadores-ultimato.m3u8?a=1",
+            "url": "https://cdn-1.nxplay.com.br/DISCOVERY_CHANNEL_NX/tracks-v1a1/mono.m3u8",
             "quality": "HD"
           }
         ],
@@ -1541,13 +1541,13 @@
       ],
       "id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
       "shortDescription": "Vingadores: Ultimato",
-      "title": "Vingadores: Ultimato",
+      "title": "Loading",
       "content": {
         "duration": 713,
         "videos": [
           {
             "videoType": "HLS",
-            "url": "https://bal01.vivartec.com.br:8088/hls/livechannel2.m3u8",
+            "url": "https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8",
             "quality": "HD"
           }
         ],
