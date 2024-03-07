@@ -1640,7 +1640,7 @@
         "videos": [
           {
             "videoType": "HLS",
-            "url": "https://live-01.open-nic-ssa-ba.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEub3Blbi1uaWMtc3NhLWJhLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTcwOTkyNjYwMywiaWF0IjoxNzA5ODQwMjAzLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjdmM2QzYmM4LTYxY2UtNDQxNi04YTkzLTZjN2I3YmRlYWNlYSIsInBhdGgiOiIvbnUvZihiTWluPTIwMDApL2dudGZhc3QyNGhhL3BsYXlsaXN0Lm0zdTgifQ.iRVJl0Vjtcg8p6bobjuIMjKbJJcD786ktjMiZBhL0TDx4TCRQ3ei38N4YQ0y_vi26McbqdLw-60I1ka3fxVmdXolgOZce0g3OQXWLI9ZaFWU_TnYpVrLpSrv5CSgy8tD8Dluqj4D1z0TonY5yWenYRCQhiMEzqBJI_roExvw4eONNeYkHg8Dg7UKuI7UyLkIli4p-ZGkwkPjQRFIV3Gtg2n_Uc3aaoad-yVoWh1otNA1G88wirr4XrX2oTEkZdUugaf9Arvu6vg8gYpB4XYUp9AjukKZB10oUDIm7O9RymN75P9WwKCH5QAzExO52kqh3w661yMKHuwsJqJjMR1BFw/nu/f(bMin=2000)/gntfast24ha/playlist.m3u8?originpath=/linear/hls/pa/event/LAO0aCRqTmKNeU7W7FruQQ/stream/4fb074f3-8b06-41a7-9118-c38acb702b0c:SCL/master.m3u8",
+            "url": "https://live-01.open-nic-ssa-ba.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEub3Blbi1uaWMtc3NhLWJhLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTcwOTkyNTkyNCwiaWF0IjoxNzA5ODM5NTI0LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjdmM2QzYmM4LTYxY2UtNDQxNi04YTkzLTZjN2I3YmRlYWNlYSIsInBhdGgiOiIvbnUvZihpPTIpL21hbGhhZmFzdDI0aGEvcGxheWxpc3QubTN1OCJ9.PSm-5RKHF5GN2fRehaQ2rHheJsPdUOOoYggdRFApsnWXgi5Ml-3GfVBJeGGEG_gHUxSaDVTQWdxfqOsX4avBOBK76tmW2qY9AAHZ5LB5VY8JNx7-wev7Skr9u6L0OeYvgjRjxSccDKJHqdo7cJJ-fI5ayNEnigNrB7y0EjuC6rjV3TjFqvpizjsgsj6FHtX_RXp7dPZTXS2Qswfivxg1RWGFT4st8Ud76z8iZNYOF5iiGsYFpShMFB2SbYP611fo2Fx3lGBBwEyCptRZRbIfjxbpR7FQKb2mOUuAV-SAOXphdW7hmxmqS6VtZLPKQZyWQAbViEvA6U7MKaVJLx03SA/nu/f(i=2)/malhafast24ha/playlist.m3u8?originpath=/linear/hls/pa/event/guZyzrXmTDGNi9VTLm0rGA/stream/d621d9c2-182a-463f-947e-c526132981cf:SCL/master.m3u8",
             "quality": "HD"
           }
         ],
@@ -1677,7 +1677,7 @@
       ],
       "id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
       "shortDescription": "Vingadores: Ultimato",
-      "title": "Vingadores: Ultimato",
+      "title": "WARNER CHANNEL",
       "content": {
         "duration": 713,
         "videos": [
