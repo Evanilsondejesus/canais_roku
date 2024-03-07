@@ -1578,7 +1578,7 @@
         "videos": [
           {
             "videoType": "HLS",
-            "url": "https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8",
+            "url": "https://cdn-2.nxplay.com.br/WARNER_CHANNEL/index.m3u8?token=d3de71086567f66fa2b61e62019344aa3df9322d-be62f5a8f84a2e51c04dbec6678c1a64-1702899902-1702856702",
             "quality": "HD"
           }
         ],
@@ -1620,6 +1620,33 @@
     },
   
   
+  
+   {
+      "longDescription": "Vingadores: Ultimato é um filme de ação e aventura que traz o clímax épico da saga dos super-heróis da Marvel. Após os eventos devastadores de Vingadores: Guerra Infinita, onde metade da população do universo foi dizimada pelo vilão Thanos, os heróis remanescentes se unem em uma última tentativa desesperada de reverter o caos e trazer de volta seus entes queridos. Com uma viagem no tempo como última esperança, os Vingadores enfrentam grandes desafios e sacrifícios, lutando contra o tempo e suas próprias dores pessoais para salvar a humanidade e restaurar a ordem no universo. Em Vingadores: Ultimato, a ideia principal do enredo é a luta pela sobrevivência e o poder do trabalho em equipe. Os heróis precisam superar suas diferenças e unir forças para enfrentar um inimigo poderoso e implacável. A trama envolvente apresenta reviravoltas emocionantes, momentos de tensão e cenas de ação eletrizantes, criando uma narrativa cativante que mantém o espectador preso à tela do início ao fim. Com personagens icônicos, efeitos visuais impressionantes e uma história repleta de emoção, Vingadores: Ultimato é uma verdadeira celebração do universo Marvel e uma conclusão épica para essa jornada cinematográfica.",
+      "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa_viland_saga.jpg?v=1709197421870",
+      "releaseDate": "2020-01-20",
+      "genres": [
+        "filmes"
+      ],
+      "tags": [
+        "demo"
+      ],
+      "id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
+      "shortDescription": "Vingadores: Ultimato",
+      "title": "SPACE_TK",
+      "content": {
+        "duration": 713,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-01-29T02:39:11Z"
+      }
+    },
   
   
   
