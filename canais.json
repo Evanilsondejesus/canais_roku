@@ -148,32 +148,21 @@
   "longDescription": "Espisodio 2",
   "tags": [
   "tips"
-              ],
-              "genres": [
-                "educational"
-              ]
-            }
-            
-            
-            
-            
-            
-            
-            
-            
-          ]
-        },
+   ],
+  "genres": [
+  "educational"
+  ]
+  }]
+},
+      
         
-        
-        
-        
-        {
-          "title": "Season 2",
-          "episodes": [
-            {
-              "id": "shortform-cb6dc73fb84bf7f0d35b99b83217f2dbc9bc08d5",
-              "title": "Guest Mode",
-              "episodeNumber": 1,
+{
+"title": "Season 2",
+"episodes": [
+{
+"id": "shortform-cb6dc73fb84bf7f0d35b99b83217f2dbc9bc08d5",
+"title": "Guest Mode",
+"episodeNumber": 1,
               "content": {
                 "dateAdded": "2020-01-29T02:32:18Z",
                 "videos": [
