@@ -751,8 +751,8 @@
       
     
 {
-"id": "series_3_RSG",
-"title": "DosankoGalwaNamaramenkoi",
+"id": "series_4_RSG",
+"title": "One Piece",
 "releaseDate": "2020-03-15T02:01:00+02:00",
 "shortDescription": "Desde a mor de Tanjirou ha remota, a família Kamado pode desfrutar de uma vida relativamente tranquila e feliz. Um dia, Tanjirou decide descer à aldeia local para ganhar algum dinheiro vendendo carvão.",
 "thumbnail":  "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/Dosanko%20Gal%20wa%20Namara%20Menkoi.jpg?v=1709740010796",
@@ -773,7 +773,7 @@
 "content": {
 "dateAdded": "2020-05-07T02:32:24Z",
     "videos": [
-                  {
+    {
                     "videoType": "MP4",
                     "url": "https://lightspeedst.net/s3/mp4/one-piece-dublado/sd/1.mp4",
                     "quality": "HD"
@@ -835,7 +835,7 @@
                 "videos": [
                   {
                     "videoType": "MP4",
-                    "url": "https://s2.lightspeedst.net/s2/mp4/dosanko-gal-wa-namara-menkoi-dublado/sd/3.mp4",
+                    "url": "https://lightspeedst.net/s3/mp4/one-piece-dublado/sd/3.mp4",
                     "quality": "HD"
                   }
                 ],
@@ -864,7 +864,7 @@
                 "videos": [
                   {
                     "videoType": "MP4",
-                    "url": "https://s2.lightspeedst.net/s2/mp4/dosanko-gal-wa-namara-menkoi-dublado/sd/4.mp4",
+                    "url": "https://lightspeedst.net/s3/mp4/one-piece-dublado/sd/4.mp4",
                     "quality": "HD"
                   }
                 ],
@@ -882,6 +882,482 @@
                 "educational"
               ]
             },
+  
+  
+   {
+    "id": "rsg-unit2-developerSetup",
+    "title": "CAPITULO 5",
+    "episodeNumber": 5,
+    "content": {
+    "dateAdded": "2020-05-07T02:32:24Z",
+    "videos": [
+                  {
+                    "videoType": "MP4",
+                    "url": "https://lightspeedst.net/s3/mp4/one-piece-dublado/sd/5.mp4",
+                    "quality": "HD"
+                  }
+                ],
+                "duration": 131,
+                "language": "en-us"
+              },
+              "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/Dosanko%20Gal%20wa%20Namara%20Menkoi.jpg?v=1709740010796",
+              "shortDescription": "Start developing for the Roku platform. This lesson explains the first steps.",
+              "releaseDate": "2020-05-07",
+              "longDescription": "Start developing for the Roku platform. This lesson explains the first steps, which includes creating the required user and developer accounts and enabling your test Roku device for development. Once you're done, you can sideload Roku's Hello World channel and view its output in the debug console.",
+              "tags": [
+                "RSG"
+              ],
+              "genres": [
+                "educational"
+              ]
+            },
+  
+   {
+    "id": "rsg-unit2-developerSetup",
+    "title": "CAPITULO 6",
+    "episodeNumber": 6,
+    "content": {
+    "dateAdded": "2020-05-07T02:32:24Z",
+    "videos": [
+                  {
+                    "videoType": "MP4",
+                    "url": "https://lightspeedst.net/s3/mp4/one-piece-dublado/sd/6.mp4",
+                    "quality": "HD"
+                  }
+                ],
+                "duration": 131,
+                "language": "en-us"
+              },
+              "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/Dosanko%20Gal%20wa%20Namara%20Menkoi.jpg?v=1709740010796",
+              "shortDescription": "Start developing for the Roku platform. This lesson explains the first steps.",
+              "releaseDate": "2020-05-07",
+              "longDescription": "Start developing for the Roku platform. This lesson explains the first steps, which includes creating the required user and developer accounts and enabling your test Roku device for development. Once you're done, you can sideload Roku's Hello World channel and view its output in the debug console.",
+              "tags": [
+                "RSG"
+              ],
+              "genres": [
+                "educational"
+              ]
+            },
+  
+  
+  
+  
+  
+   {
+    "id": "rsg-unit2-developerSetup",
+    "title": "CAPITULO 7",
+    "episodeNumber": 7,
+    "content": {
+    "dateAdded": "2020-05-07T02:32:24Z",
+    "videos": [
+    {
+    "videoType": "MP4",
+    "url": "https://lightspeedst.net/s3/mp4/one-piece-dublado/sd/7.mp4",
+    "quality": "HD"
+    }
+    ],
+    "duration": 131,
+    "language": "en-us"
+    },
+    "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/Dosanko%20Gal%20wa%20Namara%20Menkoi.jpg?v=1709740010796",
+    "shortDescription": "Start developing for the Roku platform. This lesson explains the first steps.",
+    "releaseDate": "2020-05-07",
+    "longDescription": "Start developing for the Roku platform. This lesson explains the first steps, which includes creating the required user and developer accounts and enabling your test Roku device for development. Once you're done, you can sideload Roku's Hello World channel and view its output in the debug console.",
+    "tags": [
+    "RSG"
+    ],
+    "genres": [
+    "educational"
+    ]
+    },
+  
+  
+  
+   {
+    "id": "rsg-unit2-developerSetup",
+    "title": "CAPITULO 8",
+    "episodeNumber": 8,
+    "content": {
+    "dateAdded": "2020-05-07T02:32:24Z",
+    "videos": [
+    {
+    "videoType": "MP4",
+    "url": "https://lightspeedst.net/s3/mp4/one-piece-dublado/sd/8.mp4",
+    "quality": "HD"
+    }
+    ],
+    "duration": 131,
+    "language": "en-us"
+    },
+    "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/Dosanko%20Gal%20wa%20Namara%20Menkoi.jpg?v=1709740010796",
+    "shortDescription": "Start developing for the Roku platform. This lesson explains the first steps.",
+    "releaseDate": "2020-05-07",
+    "longDescription": "Start developing for the Roku platform. This lesson explains the first steps, which includes creating the required user and developer accounts and enabling your test Roku device for development. Once you're done, you can sideload Roku's Hello World channel and view its output in the debug console.",
+    "tags": [
+    "RSG"
+    ],
+    "genres": [
+    "educational"
+    ]
+    },
+  
+  
+  
+  
+   {
+    "id": "rsg-unit2-developerSetup",
+    "title": "CAPITULO 9",
+    "episodeNumber": 9,
+    "content": {
+    "dateAdded": "2020-05-07T02:32:24Z",
+    "videos": [
+    {
+    "videoType": "MP4",
+    "url": "https://lightspeedst.net/s3/mp4/one-piece-dublado/sd/9.mp4",
+    "quality": "HD"
+    }
+    ],
+    "duration": 131,
+    "language": "en-us"
+    },
+    "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/Dosanko%20Gal%20wa%20Namara%20Menkoi.jpg?v=1709740010796",
+    "shortDescription": "Start developing for the Roku platform. This lesson explains the first steps.",
+    "releaseDate": "2020-05-07",
+    "longDescription": "Start developing for the Roku platform. This lesson explains the first steps, which includes creating the required user and developer accounts and enabling your test Roku device for development. Once you're done, you can sideload Roku's Hello World channel and view its output in the debug console.",
+    "tags": [
+    "RSG"
+    ],
+    "genres": [
+    "educational"
+    ]
+    },
+  
+  
+  
+   {
+    "id": "rsg-unit2-developerSetup",
+    "title": "CAPITULO 10",
+    "episodeNumber": 10,
+    "content": {
+    "dateAdded": "2020-05-07T02:32:24Z",
+    "videos": [
+    {
+    "videoType": "MP4",
+    "url": "https://lightspeedst.net/s3/mp4/one-piece-dublado/sd/10.mp4",
+    "quality": "HD"
+    }
+    ],
+    "duration": 131,
+    "language": "en-us"
+    },
+    "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/Dosanko%20Gal%20wa%20Namara%20Menkoi.jpg?v=1709740010796",
+    "shortDescription": "Start developing for the Roku platform. This lesson explains the first steps.",
+    "releaseDate": "2020-05-07",
+    "longDescription": "Start developing for the Roku platform. This lesson explains the first steps, which includes creating the required user and developer accounts and enabling your test Roku device for development. Once you're done, you can sideload Roku's Hello World channel and view its output in the debug console.",
+    "tags": [
+    "RSG"
+    ],
+    "genres": [
+    "educational"
+    ]
+    },
+  
+   
+  
+   {
+    "id": "rsg-unit2-developerSetup",
+    "title": "CAPITULO 11",
+    "episodeNumber": 11,
+    "content": {
+    "dateAdded": "2020-05-07T02:32:24Z",
+    "videos": [
+    {
+    "videoType": "MP4",
+    "url": "https://lightspeedst.net/s3/mp4/one-piece-dublado/sd/11.mp4",
+    "quality": "HD"
+    }
+    ],
+    "duration": 131,
+    "language": "en-us"
+    },
+    "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/Dosanko%20Gal%20wa%20Namara%20Menkoi.jpg?v=1709740010796",
+    "shortDescription": "Start developing for the Roku platform. This lesson explains the first steps.",
+    "releaseDate": "2020-05-07",
+    "longDescription": "Start developing for the Roku platform. This lesson explains the first steps, which includes creating the required user and developer accounts and enabling your test Roku device for development. Once you're done, you can sideload Roku's Hello World channel and view its output in the debug console.",
+    "tags": [
+    "RSG"
+    ],
+    "genres": [
+    "educational"
+    ]
+    },
+  
+  
+  
+   {
+    "id": "rsg-unit2-developerSetup",
+    "title": "CAPITULO 12",
+    "episodeNumber": 12,
+    "content": {
+    "dateAdded": "2020-05-07T02:32:24Z",
+    "videos": [
+    {
+    "videoType": "MP4",
+    "url": "https://lightspeedst.net/s3/mp4/one-piece-dublado/sd/12.mp4",
+    "quality": "HD"
+    }
+    ],
+    "duration": 131,
+    "language": "en-us"
+    },
+    "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/Dosanko%20Gal%20wa%20Namara%20Menkoi.jpg?v=1709740010796",
+    "shortDescription": "Start developing for the Roku platform. This lesson explains the first steps.",
+    "releaseDate": "2020-05-07",
+    "longDescription": "Start developing for the Roku platform. This lesson explains the first steps, which includes creating the required user and developer accounts and enabling your test Roku device for development. Once you're done, you can sideload Roku's Hello World channel and view its output in the debug console.",
+    "tags": [
+    "RSG"
+    ],
+    "genres": [
+    "educational"
+    ]
+    },
+  
+  
+   {
+    "id": "rsg-unit2-developerSetup",
+    "title": "CAPITULO 13",
+    "episodeNumber": 13,
+    "content": {
+    "dateAdded": "2020-05-07T02:32:24Z",
+    "videos": [
+    {
+    "videoType": "MP4",
+    "url": "https://lightspeedst.net/s3/mp4/one-piece-dublado/sd/13.mp4",
+    "quality": "HD"
+    }
+    ],
+    "duration": 131,
+    "language": "en-us"
+    },
+    "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/Dosanko%20Gal%20wa%20Namara%20Menkoi.jpg?v=1709740010796",
+    "shortDescription": "Start developing for the Roku platform. This lesson explains the first steps.",
+    "releaseDate": "2020-05-07",
+    "longDescription": "Start developing for the Roku platform. This lesson explains the first steps, which includes creating the required user and developer accounts and enabling your test Roku device for development. Once you're done, you can sideload Roku's Hello World channel and view its output in the debug console.",
+    "tags": [
+    "RSG"
+    ],
+    "genres": [
+    "educational"
+    ]
+    },
+  
+  
+   {
+    "id": "rsg-unit2-developerSetup",
+    "title": "CAPITULO 14",
+    "episodeNumber": 14,
+    "content": {
+    "dateAdded": "2020-05-07T02:32:24Z",
+    "videos": [
+    {
+    "videoType": "MP4",
+    "url": "https://lightspeedst.net/s3/mp4/one-piece-dublado/sd/14.mp4",
+    "quality": "HD"
+    }
+    ],
+    "duration": 131,
+    "language": "en-us"
+    },
+    "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/Dosanko%20Gal%20wa%20Namara%20Menkoi.jpg?v=1709740010796",
+    "shortDescription": "Start developing for the Roku platform. This lesson explains the first steps.",
+    "releaseDate": "2020-05-07",
+    "longDescription": "Start developing for the Roku platform. This lesson explains the first steps, which includes creating the required user and developer accounts and enabling your test Roku device for development. Once you're done, you can sideload Roku's Hello World channel and view its output in the debug console.",
+    "tags": [
+    "RSG"
+    ],
+    "genres": [
+    "educational"
+    ]
+    },
+  
+   {
+    "id": "rsg-unit2-developerSetup",
+    "title": "CAPITULO 15",
+    "episodeNumber": 15,
+    "content": {
+    "dateAdded": "2020-05-07T02:32:24Z",
+    "videos": [
+    {
+    "videoType": "MP4",
+    "url": "https://lightspeedst.net/s3/mp4/one-piece-dublado/sd/15.mp4",
+    "quality": "HD"
+    }
+    ],
+    "duration": 131,
+    "language": "en-us"
+    },
+    "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/Dosanko%20Gal%20wa%20Namara%20Menkoi.jpg?v=1709740010796",
+    "shortDescription": "Start developing for the Roku platform. This lesson explains the first steps.",
+    "releaseDate": "2020-05-07",
+    "longDescription": "Start developing for the Roku platform. This lesson explains the first steps, which includes creating the required user and developer accounts and enabling your test Roku device for development. Once you're done, you can sideload Roku's Hello World channel and view its output in the debug console.",
+    "tags": [
+    "RSG"
+    ],
+    "genres": [
+    "educational"
+    ]
+    },
+  
+  
+  
+   {
+    "id": "rsg-unit2-developerSetup",
+    "title": "CAPITULO 16",
+    "episodeNumber": 16,
+    "content": {
+    "dateAdded": "2020-05-07T02:32:24Z",
+    "videos": [
+    {
+    "videoType": "MP4",
+    "url": "https://lightspeedst.net/s3/mp4/one-piece-dublado/sd/16.mp4",
+    "quality": "HD"
+    }
+    ],
+    "duration": 131,
+    "language": "en-us"
+    },
+    "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/Dosanko%20Gal%20wa%20Namara%20Menkoi.jpg?v=1709740010796",
+    "shortDescription": "Start developing for the Roku platform. This lesson explains the first steps.",
+    "releaseDate": "2020-05-07",
+    "longDescription": "Start developing for the Roku platform. This lesson explains the first steps, which includes creating the required user and developer accounts and enabling your test Roku device for development. Once you're done, you can sideload Roku's Hello World channel and view its output in the debug console.",
+    "tags": [
+    "RSG"
+    ],
+    "genres": [
+    "educational"
+    ]
+    },
+  
+  
+   {
+    "id": "rsg-unit2-developerSetup",
+    "title": "CAPITULO 17",
+    "episodeNumber": 17,
+    "content": {
+    "dateAdded": "2020-05-07T02:32:24Z",
+    "videos": [
+    {
+    "videoType": "MP4",
+    "url": "https://lightspeedst.net/s3/mp4/one-piece-dublado/sd/17.mp4",
+    "quality": "HD"
+    }
+    ],
+    "duration": 131,
+    "language": "en-us"
+    },
+    "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/Dosanko%20Gal%20wa%20Namara%20Menkoi.jpg?v=1709740010796",
+    "shortDescription": "Start developing for the Roku platform. This lesson explains the first steps.",
+    "releaseDate": "2020-05-07",
+    "longDescription": "Start developing for the Roku platform. This lesson explains the first steps, which includes creating the required user and developer accounts and enabling your test Roku device for development. Once you're done, you can sideload Roku's Hello World channel and view its output in the debug console.",
+    "tags": [
+    "RSG"
+    ],
+    "genres": [
+    "educational"
+    ]
+    },
+  
+  
+  
+   {
+    "id": "rsg-unit2-developerSetup",
+    "title": "CAPITULO 18",
+    "episodeNumber": 18,
+    "content": {
+    "dateAdded": "2020-05-07T02:32:24Z",
+    "videos": [
+    {
+    "videoType": "MP4",
+    "url": "https://lightspeedst.net/s3/mp4/one-piece-dublado/sd/18.mp4",
+    "quality": "HD"
+    }
+    ],
+    "duration": 131,
+    "language": "en-us"
+    },
+    "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/Dosanko%20Gal%20wa%20Namara%20Menkoi.jpg?v=1709740010796",
+    "shortDescription": "Start developing for the Roku platform. This lesson explains the first steps.",
+    "releaseDate": "2020-05-07",
+    "longDescription": "Start developing for the Roku platform. This lesson explains the first steps, which includes creating the required user and developer accounts and enabling your test Roku device for development. Once you're done, you can sideload Roku's Hello World channel and view its output in the debug console.",
+    "tags": [
+    "RSG"
+    ],
+    "genres": [
+    "educational"
+    ]
+    },
+  
+  
+   {
+    "id": "rsg-unit2-developerSetup",
+    "title": "CAPITULO 19",
+    "episodeNumber": 19,
+    "content": {
+    "dateAdded": "2020-05-07T02:32:24Z",
+    "videos": [
+    {
+    "videoType": "MP4",
+    "url": "https://lightspeedst.net/s3/mp4/one-piece-dublado/sd/19.mp4",
+    "quality": "HD"
+    }
+    ],
+    "duration": 131,
+    "language": "en-us"
+    },
+    "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/Dosanko%20Gal%20wa%20Namara%20Menkoi.jpg?v=1709740010796",
+    "shortDescription": "Start developing for the Roku platform. This lesson explains the first steps.",
+    "releaseDate": "2020-05-07",
+    "longDescription": "Start developing for the Roku platform. This lesson explains the first steps, which includes creating the required user and developer accounts and enabling your test Roku device for development. Once you're done, you can sideload Roku's Hello World channel and view its output in the debug console.",
+    "tags": [
+    "RSG"
+    ],
+    "genres": [
+    "educational"
+    ]
+    },
+  
+  
+  
+   {
+    "id": "rsg-unit2-developerSetup",
+    "title": "CAPITULO 20",
+    "episodeNumber": 20,
+    "content": {
+    "dateAdded": "2020-05-07T02:32:24Z",
+    "videos": [
+    {
+    "videoType": "MP4",
+    "url": "https://lightspeedst.net/s3/mp4/one-piece-dublado/sd/14.mp4",
+    "quality": "HD"
+    }
+    ],
+    "duration": 131,
+    "language": "en-us"
+    },
+    "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/Dosanko%20Gal%20wa%20Namara%20Menkoi.jpg?v=1709740010796",
+    "shortDescription": "Start developing for the Roku platform. This lesson explains the first steps.",
+    "releaseDate": "2020-05-07",
+    "longDescription": "Start developing for the Roku platform. This lesson explains the first steps, which includes creating the required user and developer accounts and enabling your test Roku device for development. Once you're done, you can sideload Roku's Hello World channel and view its output in the debug console.",
+    "tags": [
+    "RSG"
+    ],
+    "genres": [
+    "educational"
+    ]
+    },
+  
+  
             {
               "id": "video6-video-player",
               "title": "CAPITULO 5",
@@ -891,7 +1367,7 @@
                 "videos": [
                   {
                     "videoType": "MP4",
-                    "url": "https://s2.lightspeedst.net/s2/mp4/dosanko-gal-wa-namara-menkoi-dublado/sd/5.mp4",
+                    "url": "https://lightspeedst.net/s3/mp4/one-piece-dublado/sd/5.mp4",
                     "quality": "HD"
                   }
                 ],
