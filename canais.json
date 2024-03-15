@@ -71,47 +71,49 @@
   },
     
     
-            
-{
-"id": "shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9",
-"title": "Capitulo 2",
-"episodeNumber": 2,
-"content": {
-"dateAdded": "2020-02-04T19:08:55Z",
-"videos": [
-{
-"videoType": "MP4",
-"url": "https://lightspeedst.net/s1/mp4/vinland-saga-dublado/sd/2.mp4",
-"quality": "SD"
-}
- ],
-"duration": 134,
-"captions": [
-{
-"language": "en",
-"captionType": "CLOSED_CAPTION",
-"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.srt"
-},
-{
-"language": "en",
-"captionType": "CLOSED_CAPTION",
-"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.vtt"
+    
+  {
+  "id": "shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9",
+  "title": "Capitulo 2",
+  "episodeNumber": 2,
+  "content": {
+  "dateAdded": "2020-02-04T19:08:55Z",
+  "videos": [
+  {
+  "videoType": "MP4",
+  "url": "https://lightspeedst.net/s1/mp4/vinland-saga-dublado/sd/2.mp4",
+  "quality": "SD"
   }
   ],
+  "duration": 134,
+  "captions": [
+    {
+  "language": "en",
+  "captionType": "CLOSED_CAPTION",
+  "url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.srt"
+    },
+  {
+  "language": "en",
+  "captionType": "CLOSED_CAPTION",
+  "url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.vtt"
+    }
+    ],
   "language": "en-us"
-  },
+    },
   "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa_viland_saga.jpg?v=1709205876345",
   "shortDescription": "Find the best placement of your Roku audio devices",
   "releaseDate": "2020-01-02",
   "longDescription": "Espisodio 2",
   "tags": [
   "tips"
-     ],
+   ],
   "genres": [
   "educational"
-    ]
-    },
-    
+  ]
+  }]
+},
+
+
     
     
   {
