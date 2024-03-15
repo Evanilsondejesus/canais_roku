@@ -329,6 +329,8 @@
     
     
     
+    
+    
 {
 "id": "series_3_RSG",
 "title": "DosankoGalwaNamaramenkoi",
@@ -351,28 +353,40 @@
 "episodeNumber": 1,
 "content": {
 "dateAdded": "2020-05-07T02:32:24Z",
-  "videos": [
-  {
-   "videoType": "MP4",
-  "url": "https://s2.lightspeedst.net/s2/mp4/dosanko-gal-wa-namara-menkoi-dublado/sd/1.mp4",
-  "quality": "HD"
-  }
-  ],
-  "duration": 178,
-  "language": "en-us"
-  },
+"videos": [
+{
+"videoType": "MP4",
+"url": "https://s2.lightspeedst.net/s2/mp4/dosanko-gal-wa-namara-menkoi-dublado/sd/1.mp4",
+"quality": "HD"
+}
+],
+"duration": 178,
+"language": "en-us"
+              },
   "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/Dosanko%20Gal%20wa%20Namara%20Menkoi.jpg?v=1709740010796",
   "shortDescription": "Watch the introduction to the \"SceneGraph: Build a Channel\" development course. This video outlines the course syllabus.",
   "releaseDate": "2020-05-07",
   "longDescription": "Watch the introduction to the \"SceneGraph: Build a Channel\" development course. This video outlines the course syllabus.",
   "tags": [
-    "RSG"
-     ],
-    "genres": [
-     "educational"
-     ]
-  },
-   {
+                "RSG"
+              ],
+              "genres": [
+                "educational"
+              ]
+            },
+      
+            
+  
+  
+  
+  
+  
+  
+  
+  
+            
+            
+            {
               "id": "DosankoGalwaNamaramenkoi2",
               "title": "CAPITULO 2",
               "episodeNumber": 2,
@@ -730,446 +744,9 @@
             }
           ]
         }
-      ]
-    },
-  
-    
-    
-    
-    
-{ "id": "series_3_RSG", "title": "One Piece", "releaseDate": "2020-03-15T02:01:00+02:00", "shortDescription": "Desde a mor de Tanjirou ha remota, a família Kamado pode desfrutar de uma vida relativamente tranquila e feliz. Um dia, Tanjirou decide descer à aldeia local para ganhar algum dinheiro vendendo carvão.", "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/Dosanko%20Gal%20wa%20Namara%20Menkoi.jpg?v=1709740010796", "genres": [ "educational" ], "tags": [ "RSG" ], "seasons": [ { "title": "Season 1", "episodes": [ {
-"id": "shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9",
-"title": "Capitulo 1",
-"episodeNumber": 1,
-"content": {
-"dateAdded": "2020-02-04T19:08:55Z",
-"videos": [
-{
-"videoType": "MP4",
-"url": "https://lightspeedst.net/s3/mp4/one-piece-dublado/sd/1.mp4",
-"quality": "SD"
+  ]
 }
-],
-"duration": 100,
-"captions": [
-{
-"language": "en",
-"captionType": "CLOSED_CAPTION",
-"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.srt"
-},
-{ "language": "en",
-"captionType": "CLOSED_CAPTION",
-"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.vtt"
-}
-],
-"language": "en-us"
-},
-"thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa_viland_saga.jpg?v=1709205876345",
-"shortDescription": "Find the best placement of your Roku audio devices",
-"releaseDate": "2020-01-02",
-"longDescription": "Espisodio 1",
-"tags": [
-"tips"
-],
-"genres": [
-"educational"
-]
-}]
-}, 
-
-]
-] }, ] } ], { "id": "series_3_RSG", "title": "One Piece", "releaseDate": "2020-03-15T02:01:00+02:00", "shortDescription": "Desde a mor de Tanjirou ha remota, a família Kamado pode desfrutar de uma vida relativamente tranquila e feliz. Um dia, Tanjirou decide descer à aldeia local para ganhar algum dinheiro vendendo carvão.", "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/Dosanko%20Gal%20wa%20Namara%20Menkoi.jpg?v=1709740010796", "genres": [ "educational" ], "tags": [ "RSG" ], "seasons": [ { "title": "Season 1", "episodes": [ {
-"id": "shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9",
-"title": "Capitulo 2",
-"episodeNumber": 2,
-"content": {
-"dateAdded": "2020-02-04T19:08:55Z",
-"videos": [
-{
-"videoType": "MP4",
-"url": "https://lightspeedst.net/s3/mp4/one-piece-dublado/sd/2.mp4",
-"quality": "SD"
-}
-],
-"duration": 100,
-"captions": [
-{
-"language": "en",
-"captionType": "CLOSED_CAPTION",
-"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.srt"
-},
-{ "language": "en",
-"captionType": "CLOSED_CAPTION",
-"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.vtt"
-}
-],
-"language": "en-us"
-},
-"thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa_viland_saga.jpg?v=1709205876345",
-"shortDescription": "Find the best placement of your Roku audio devices",
-"releaseDate": "2020-01-02",
-"longDescription": "Espisodio 2",
-"tags": [
-"tips"
-],
-"genres": [
-"educational"
-]
-}]
-}, ]
-] }, ] } ], { "id": "series_3_RSG", "title": "One Piece", "releaseDate": "2020-03-15T02:01:00+02:00", "shortDescription": "Desde a mor de Tanjirou ha remota, a família Kamado pode desfrutar de uma vida relativamente tranquila e feliz. Um dia, Tanjirou decide descer à aldeia local para ganhar algum dinheiro vendendo carvão.", "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/Dosanko%20Gal%20wa%20Namara%20Menkoi.jpg?v=1709740010796", "genres": [ "educational" ], "tags": [ "RSG" ], "seasons": [ { "title": "Season 1", "episodes": [ {
-"id": "shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9",
-"title": "Capitulo 3",
-"episodeNumber": 3,
-"content": {
-"dateAdded": "2020-02-04T19:08:55Z",
-"videos": [
-{
-"videoType": "MP4",
-"url": "https://lightspeedst.net/s3/mp4/one-piece-dublado/sd/3.mp4",
-"quality": "SD"
-}
-],
-"duration": 100,
-"captions": [
-{
-"language": "en",
-"captionType": "CLOSED_CAPTION",
-"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.srt"
-},
-{ "language": "en",
-"captionType": "CLOSED_CAPTION",
-"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.vtt"
-}
-],
-"language": "en-us"
-},
-"thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa_viland_saga.jpg?v=1709205876345",
-"shortDescription": "Find the best placement of your Roku audio devices",
-"releaseDate": "2020-01-02",
-"longDescription": "Espisodio 3",
-"tags": [
-"tips"
-],
-"genres": [
-"educational"
-]
-}]
-}, ]
-] }, ] } ], { "id": "series_3_RSG", "title": "One Piece", "releaseDate": "2020-03-15T02:01:00+02:00", "shortDescription": "Desde a mor de Tanjirou ha remota, a família Kamado pode desfrutar de uma vida relativamente tranquila e feliz. Um dia, Tanjirou decide descer à aldeia local para ganhar algum dinheiro vendendo carvão.", "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/Dosanko%20Gal%20wa%20Namara%20Menkoi.jpg?v=1709740010796", "genres": [ "educational" ], "tags": [ "RSG" ], "seasons": [ { "title": "Season 1", "episodes": [ {
-"id": "shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9",
-"title": "Capitulo 4",
-"episodeNumber": 4,
-"content": {
-"dateAdded": "2020-02-04T19:08:55Z",
-"videos": [
-{
-"videoType": "MP4",
-"url": "https://lightspeedst.net/s3/mp4/one-piece-dublado/sd/4.mp4",
-"quality": "SD"
-}
-],
-"duration": 100,
-"captions": [
-{
-"language": "en",
-"captionType": "CLOSED_CAPTION",
-"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.srt"
-},
-{ "language": "en",
-"captionType": "CLOSED_CAPTION",
-"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.vtt"
-}
-],
-"language": "en-us"
-},
-"thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa_viland_saga.jpg?v=1709205876345",
-"shortDescription": "Find the best placement of your Roku audio devices",
-"releaseDate": "2020-01-02",
-"longDescription": "Espisodio 4",
-"tags": [
-"tips"
-],
-"genres": [
-"educational"
-]
-}]
-}, ]
-] }, ] } ], { "id": "series_3_RSG", "title": "One Piece", "releaseDate": "2020-03-15T02:01:00+02:00", "shortDescription": "Desde a mor de Tanjirou ha remota, a família Kamado pode desfrutar de uma vida relativamente tranquila e feliz. Um dia, Tanjirou decide descer à aldeia local para ganhar algum dinheiro vendendo carvão.", "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/Dosanko%20Gal%20wa%20Namara%20Menkoi.jpg?v=1709740010796", "genres": [ "educational" ], "tags": [ "RSG" ], "seasons": [ { "title": "Season 1", "episodes": [ {
-"id": "shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9",
-"title": "Capitulo 5",
-"episodeNumber": 5,
-"content": {
-"dateAdded": "2020-02-04T19:08:55Z",
-"videos": [
-{
-"videoType": "MP4",
-"url": "https://lightspeedst.net/s3/mp4/one-piece-dublado/sd/5.mp4",
-"quality": "SD"
-}
-],
-"duration": 100,
-"captions": [
-{
-"language": "en",
-"captionType": "CLOSED_CAPTION",
-"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.srt"
-},
-{ "language": "en",
-"captionType": "CLOSED_CAPTION",
-"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.vtt"
-}
-],
-"language": "en-us"
-},
-"thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa_viland_saga.jpg?v=1709205876345",
-"shortDescription": "Find the best placement of your Roku audio devices",
-"releaseDate": "2020-01-02",
-"longDescription": "Espisodio 5",
-"tags": [
-"tips"
-],
-"genres": [
-"educational"
-]
-}]
-}, ]
-] }, ] } ], { "id": "series_3_RSG", "title": "One Piece", "releaseDate": "2020-03-15T02:01:00+02:00", "shortDescription": "Desde a mor de Tanjirou ha remota, a família Kamado pode desfrutar de uma vida relativamente tranquila e feliz. Um dia, Tanjirou decide descer à aldeia local para ganhar algum dinheiro vendendo carvão.", "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/Dosanko%20Gal%20wa%20Namara%20Menkoi.jpg?v=1709740010796", "genres": [ "educational" ], "tags": [ "RSG" ], "seasons": [ { "title": "Season 1", "episodes": [ {
-"id": "shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9",
-"title": "Capitulo 6",
-"episodeNumber": 6,
-"content": {
-"dateAdded": "2020-02-04T19:08:55Z",
-"videos": [
-{
-"videoType": "MP4",
-"url": "https://lightspeedst.net/s3/mp4/one-piece-dublado/sd/6.mp4",
-"quality": "SD"
-}
-],
-"duration": 100,
-"captions": [
-{
-"language": "en",
-"captionType": "CLOSED_CAPTION",
-"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.srt"
-},
-{ "language": "en",
-"captionType": "CLOSED_CAPTION",
-"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.vtt"
-}
-],
-"language": "en-us"
-},
-"thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa_viland_saga.jpg?v=1709205876345",
-"shortDescription": "Find the best placement of your Roku audio devices",
-"releaseDate": "2020-01-02",
-"longDescription": "Espisodio 6",
-"tags": [
-"tips"
-],
-"genres": [
-"educational"
-]
-}]
-}, ]
-] }, ] } ], { "id": "series_3_RSG", "title": "One Piece", "releaseDate": "2020-03-15T02:01:00+02:00", "shortDescription": "Desde a mor de Tanjirou ha remota, a família Kamado pode desfrutar de uma vida relativamente tranquila e feliz. Um dia, Tanjirou decide descer à aldeia local para ganhar algum dinheiro vendendo carvão.", "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/Dosanko%20Gal%20wa%20Namara%20Menkoi.jpg?v=1709740010796", "genres": [ "educational" ], "tags": [ "RSG" ], "seasons": [ { "title": "Season 1", "episodes": [ {
-"id": "shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9",
-"title": "Capitulo 7",
-"episodeNumber": 7,
-"content": {
-"dateAdded": "2020-02-04T19:08:55Z",
-"videos": [
-{
-"videoType": "MP4",
-"url": "https://lightspeedst.net/s3/mp4/one-piece-dublado/sd/7.mp4",
-"quality": "SD"
-}
-],
-"duration": 100,
-"captions": [
-{
-"language": "en",
-"captionType": "CLOSED_CAPTION",
-"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.srt"
-},
-{ "language": "en",
-"captionType": "CLOSED_CAPTION",
-"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.vtt"
-}
-],
-"language": "en-us"
-},
-"thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa_viland_saga.jpg?v=1709205876345",
-"shortDescription": "Find the best placement of your Roku audio devices",
-"releaseDate": "2020-01-02",
-"longDescription": "Espisodio 7",
-"tags": [
-"tips"
-],
-"genres": [
-"educational"
-]
-}]
-}, ]
-] }, ] } ], { "id": "series_3_RSG", "title": "One Piece", "releaseDate": "2020-03-15T02:01:00+02:00", "shortDescription": "Desde a mor de Tanjirou ha remota, a família Kamado pode desfrutar de uma vida relativamente tranquila e feliz. Um dia, Tanjirou decide descer à aldeia local para ganhar algum dinheiro vendendo carvão.", "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/Dosanko%20Gal%20wa%20Namara%20Menkoi.jpg?v=1709740010796", "genres": [ "educational" ], "tags": [ "RSG" ], "seasons": [ { "title": "Season 1", "episodes": [ {
-"id": "shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9",
-"title": "Capitulo 8",
-"episodeNumber": 8,
-"content": {
-"dateAdded": "2020-02-04T19:08:55Z",
-"videos": [
-{
-"videoType": "MP4",
-"url": "https://lightspeedst.net/s3/mp4/one-piece-dublado/sd/8.mp4",
-"quality": "SD"
-}
-],
-"duration": 100,
-"captions": [
-{
-"language": "en",
-"captionType": "CLOSED_CAPTION",
-"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.srt"
-},
-{ "language": "en",
-"captionType": "CLOSED_CAPTION",
-"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.vtt"
-}
-],
-"language": "en-us"
-},
-"thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa_viland_saga.jpg?v=1709205876345",
-"shortDescription": "Find the best placement of your Roku audio devices",
-"releaseDate": "2020-01-02",
-"longDescription": "Espisodio 8",
-"tags": [
-"tips"
-],
-"genres": [
-"educational"
-]
-}]
-}, ]
-] }, ] } ], { "id": "series_3_RSG", "title": "One Piece", "releaseDate": "2020-03-15T02:01:00+02:00", "shortDescription": "Desde a mor de Tanjirou ha remota, a família Kamado pode desfrutar de uma vida relativamente tranquila e feliz. Um dia, Tanjirou decide descer à aldeia local para ganhar algum dinheiro vendendo carvão.", "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/Dosanko%20Gal%20wa%20Namara%20Menkoi.jpg?v=1709740010796", "genres": [ "educational" ], "tags": [ "RSG" ], "seasons": [ { "title": "Season 1", "episodes": [ {
-"id": "shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9",
-"title": "Capitulo 9",
-"episodeNumber": 9,
-"content": {
-"dateAdded": "2020-02-04T19:08:55Z",
-"videos": [
-{
-"videoType": "MP4",
-"url": "https://lightspeedst.net/s3/mp4/one-piece-dublado/sd/9.mp4",
-"quality": "SD"
-}
-],
-"duration": 100,
-"captions": [
-{
-"language": "en",
-"captionType": "CLOSED_CAPTION",
-"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.srt"
-},
-{ "language": "en",
-"captionType": "CLOSED_CAPTION",
-"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.vtt"
-}
-],
-"language": "en-us"
-},
-"thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa_viland_saga.jpg?v=1709205876345",
-"shortDescription": "Find the best placement of your Roku audio devices",
-"releaseDate": "2020-01-02",
-"longDescription": "Espisodio 9",
-"tags": [
-"tips"
-],
-"genres": [
-"educational"
-]
-}]
-}, ]
-] }, ] } ], { "id": "series_3_RSG", "title": "One Piece", "releaseDate": "2020-03-15T02:01:00+02:00", "shortDescription": "Desde a mor de Tanjirou ha remota, a família Kamado pode desfrutar de uma vida relativamente tranquila e feliz. Um dia, Tanjirou decide descer à aldeia local para ganhar algum dinheiro vendendo carvão.", "thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/Dosanko%20Gal%20wa%20Namara%20Menkoi.jpg?v=1709740010796", "genres": [ "educational" ], "tags": [ "RSG" ], "seasons": [ { "title": "Season 1", "episodes": [ {
-"id": "shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9",
-"title": "Capitulo 10",
-"episodeNumber": 10,
-"content": {
-"dateAdded": "2020-02-04T19:08:55Z",
-"videos": [
-{
-"videoType": "MP4",
-"url": "https://lightspeedst.net/s3/mp4/one-piece-dublado/sd/10.mp4",
-"quality": "SD"
-}
-],
-"duration": 100,
-"captions": [
-{
-"language": "en",
-"captionType": "CLOSED_CAPTION",
-"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.srt"
-},
-{ "language": "en",
-"captionType": "CLOSED_CAPTION",
-"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.vtt"
-}
-],
-"language": "en-us"
-},
-"thumbnail": "https://cdn.glitch.global/9a97079b-950e-4516-9de5-db3952bcb3d4/capa_viland_saga.jpg?v=1709205876345",
-"shortDescription": "Find the best placement of your Roku audio devices",
-"releaseDate": "2020-01-02",
-"longDescription": "Espisodio 10",
-"tags": [
-"tips"
-],
-"genres": [
-"educational"
-]
-}]
-}, ]
-] }, ] } ],
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   
   
   
