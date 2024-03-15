@@ -13,7 +13,7 @@
     
     
     
-  {
+{
  "id": "series_1_tips",
 "title": "Vinland saga",
 "releaseDate": "2020-03-15T02:01:00+02:00",
@@ -30,6 +30,7 @@
   {
   "title": "Season 1",
   "episodes": [
+    
   {
   "id": "shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4",
   "title": "CAPITULO 1",
@@ -320,10 +321,14 @@
                 "educational"
               ]
             }
+  
           ]
         }
       ]
+  
     },
+    
+    
     
     
     
@@ -639,6 +644,8 @@
             }
           ]
         }
+  
+  
       ]
     }
     
