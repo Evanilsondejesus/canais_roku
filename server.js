@@ -65,6 +65,19 @@ app.post('/upload', upload.single('arquivoJSON'), (req, res) => {
   // Envia uma resposta para indicar que o arquivo foi recebido com sucesso
   //res.send(jsonData);
    
+ 
+  
+  res.send(path)
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
   
   fs.writeFile('canai.json', JSON.stringify(jsonData, null, 2), (err) => {
