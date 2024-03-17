@@ -25,6 +25,37 @@ app.use(cors());
  
 
 
+
+
+
+
+
+
+
+
+const dados = 'Este é o conteúdo do arquivo';
+const caminhoArquivo = path + 'arquivo.json';
+
+fs.writeFile(caminhoArquivo, dados, (err) => {
+    if (err) {
+        console.error('Erro ao escrever o arquivo:', err);
+        return;
+    }
+    console.log('Arquivo escrito com sucesso!');
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
 app.get('/download', (req, res) => {
     const filePath = 'canais.json'; // Substitua pelo caminho correto para o seu arquivo JSON
 
@@ -61,26 +92,9 @@ app.post('/upload', upload.single('arquivoJSON'), (req, res) => {
   console.log("sim deu certo")
   
 
-
-  // Envia uma resposta para indicar que o arquivo foi recebido com sucesso
-  //res.send(jsonData);
-   
- 
-  
-  res.send(path)
   
   
-  
-  
-  
-  
-  
-  
-  
-  
-
-  
-  fs.writeFile('canai.json', JSON.stringify(jsonData, null, 2), (err) => {
+  fs.writeFile('canais.json', JSON.stringify(jsonData, null, 2), (err) => {
     if (err) {
         console.error('Erro ao salvar os dados:', err);
         return res.status(500).send('Erro ao salvar os dados');
