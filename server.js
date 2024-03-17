@@ -34,8 +34,8 @@ app.use(cors());
 
 
 const dados = 'Este é o conteúdo do arquivo';
-const caminhoArquivo = path + 'arquivo.json';
-
+const caminhoArquivo = 'novo.json';
+console.log(".............aqui")
 fs.writeFile(caminhoArquivo, dados, (err) => {
     if (err) {
         console.error('Erro ao escrever o arquivo:', err);
