@@ -31,10 +31,8 @@ app.use(cors());
 
 
 
-
-
 const dados = 'Este é o conteúdo do arquivo';
-const caminhoArquivo = path+'sim.json';
+const caminhoArquivo = path+'/sim.json';
 console.log(".............aqui")
 fs.writeFile(caminhoArquivo, dados, (err) => {
     if (err) {
