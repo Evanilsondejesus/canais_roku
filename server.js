@@ -63,11 +63,11 @@ app.post('/upload', upload.single('arquivoJSON'), (req, res) => {
 
 
   // Envia uma resposta para indicar que o arquivo foi recebido com sucesso
-  res.send("Arquivo JSON recebido com sucesso");
+  //res.send(jsonData);
    
 
   
-  fs.writeFile('canais.json', JSON.stringify(jsonData, null, 2), (err) => {
+  fs.writeFile('canai.json', JSON.stringify(jsonData, null, 2), (err) => {
     if (err) {
         console.error('Erro ao salvar os dados:', err);
         return res.status(500).send('Erro ao salvar os dados');
