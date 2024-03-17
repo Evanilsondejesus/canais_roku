@@ -25,9 +25,6 @@ app.use(cors());
  
 
 
-
-
-
 app.get('/download', (req, res) => {
     const filePath = 'canais.json'; // Substitua pelo caminho correto para o seu arquivo JSON
 
