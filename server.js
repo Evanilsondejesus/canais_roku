@@ -58,11 +58,13 @@ app.post('/upload', upload.single('arquivoJSON'), (req, res) => {
 
   // Aqui você pode acessar os dados do arquivo JSON
   const jsonData = JSON.parse(req.file.buffer.toString('utf8'));
+  console.log("sim deu certo")
+  
 
 
   // Envia uma resposta para indicar que o arquivo foi recebido com sucesso
   res.send("Arquivo JSON recebido com sucesso");
-  
+   
 
   
   fs.writeFile('canais.json', JSON.stringify(jsonData, null, 2), (err) => {
