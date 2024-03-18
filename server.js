@@ -83,7 +83,7 @@ app.get('/download', (req, res) => {
 
 
 
-app.get('/meu', (req, res) => {
+app.get('/canal', (req, res) => {
     const filePath = 'canais.json'; // Substitua pelo caminho correto para o seu arquivo JSON
 
   
