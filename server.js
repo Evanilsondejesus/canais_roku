@@ -31,8 +31,8 @@ app.use(cors());
 
 
 
-const dados = 'Servidor está funcionando!!';
-const caminhoArquivo = 'ago.json';
+const dados = 'Deu certo sim';
+const caminhoArquivo = 'sucesso.json';
 
 fs.writeFile(caminhoArquivo, dados, (err) => {
     if (err) {
