@@ -158,29 +158,7 @@ fs.writeFile(caminhoArquivo, meujson, (err) => {
   
   
   
-  
-  
-  
-  
-//   fs.writeFile('canais.json', JSON.stringify(jsonData, null, 2), (err) => {
-//     if (err) {
-//         console.error('Erro ao salvar os dados:', err);
-//         return res.status(500).send('Erro ao salvar os dados');
-//       console.log("deu erro em...")
-//     }
-    
-//     res.send("Arquivo JSON recebido e salvado com sucesso");
-// });
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
+   
 
 
 });
