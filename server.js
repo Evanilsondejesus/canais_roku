@@ -31,7 +31,7 @@ app.use(cors());
 
 
 
-const dados = 'Pelo menos esse texte deu certo!!';
+const dados = 'serio que tenho que texta novamente esse arquivo!!';
 const caminhoArquivo = 'sucesso.json';
 
 fs.writeFile(caminhoArquivo, dados, (err) => {
@@ -89,7 +89,7 @@ app.post('/upload', upload.single('arquivoJSON'), (req, res) => {
   // Aqui você pode acessar os dados do arquivo JSON
   const jsonData = JSON.parse(req.file.buffer.toString('utf8'));
   console.log("sim deu certo")
-  
+  res.send("foi enviado com sucesso")
 
   
   
