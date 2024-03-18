@@ -125,7 +125,7 @@ novo ++
 
 
 
-
+module.exports = IdentacaoJson;
   
   
   

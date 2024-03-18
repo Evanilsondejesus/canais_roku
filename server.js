@@ -4,6 +4,11 @@ const cors = require('cors');
 
 const app = express();
 const fs = require('fs');
+const minhaFuncao = require('indentacao.js');
+
+
+
+
 
 app.use(express.static(path.join(__dirname)));
 
@@ -31,7 +36,7 @@ app.use(cors());
 
 
 
-const dados = 'Estou ainda fazendo texte para saber si dessa vez conseguir enviar dados na nuvens!!';
+const dados = 'Deu certo dessa vez???';
 const caminhoArquivo = 'sucesso.json';
 
 fs.writeFile(caminhoArquivo, dados, (err) => {
@@ -94,10 +99,9 @@ app.post('/upload', upload.single('arquivoJSON'), (req, res) => {
   
   
   
+  //const meujson = JSON.stringify(jsonData);
   
-  
-
-const meujson = JSON.stringify(jsonData);
+  const meujson = minhaFuncao(jsonData);
 ;
 const caminhoArquivo = 'canais.json';
 
