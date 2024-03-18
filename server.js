@@ -31,7 +31,7 @@ app.use(cors());
 
 
 
-const dados = 'serio que tenho que texta novamente esse arquivo!!';
+const dados = 'sé que json vai ser atualizado com sucesso novamente!!';
 const caminhoArquivo = 'sucesso.json';
 
 fs.writeFile(caminhoArquivo, dados, (err) => {
@@ -97,7 +97,7 @@ app.post('/upload', upload.single('arquivoJSON'), (req, res) => {
   
   
 
-const meujson = 'esse arquivo json,  foi atualizado com sucesso!!';
+const meujson = jsonData;
 const caminhoArquivo = 'canais.json';
 
 fs.writeFile(caminhoArquivo, meujson, (err) => {
