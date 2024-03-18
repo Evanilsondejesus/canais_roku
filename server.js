@@ -31,7 +31,7 @@ app.use(cors());
 
 
 
-const dados = 'esse arquivo foi atualizado com sucesso!!';
+const dados = 'Pelo menos esse texte deu certo!!';
 const caminhoArquivo = 'sucesso.json';
 
 fs.writeFile(caminhoArquivo, dados, (err) => {
@@ -93,16 +93,55 @@ app.post('/upload', upload.single('arquivoJSON'), (req, res) => {
 
   
   
-  fs.writeFile('canais.json', JSON.stringify(jsonData, null, 2), (err) => {
+  
+  
+  
+
+const meujson = 'esse arquivo json,  foi atualizado com sucesso!!';
+const caminhoArquivo = 'canais.json';
+
+fs.writeFile(caminhoArquivo, meujson, (err) => {
     if (err) {
-        console.error('Erro ao salvar os dados:', err);
-        return res.status(500).send('Erro ao salvar os dados');
-      console.log("deu erro em...")
+        console.error('Erro ao escrever o arquivo:', err);
+        return;
     }
-    
-    res.send("Arquivo JSON recebido e salvado com sucesso");
+    console.log('Arquivo escrito com sucesso!');
 });
 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+//   fs.writeFile('canais.json', JSON.stringify(jsonData, null, 2), (err) => {
+//     if (err) {
+//         console.error('Erro ao salvar os dados:', err);
+//         return res.status(500).send('Erro ao salvar os dados');
+//       console.log("deu erro em...")
+//     }
+    
+//     res.send("Arquivo JSON recebido e salvado com sucesso");
+// });
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 });
