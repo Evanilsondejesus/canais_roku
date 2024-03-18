@@ -32,7 +32,7 @@ app.use(cors());
 
 
 const dados = 'Conteudo criado agora mesmo';
-const caminhoArquivo = '/agora.json';
+const caminhoArquivo = 'agora.json';
 
 fs.writeFile(caminhoArquivo, dados, (err) => {
     if (err) {
@@ -93,7 +93,7 @@ app.post('/upload', upload.single('arquivoJSON'), (req, res) => {
 
   
   
-  fs.writeFile('canal.json', JSON.stringify(jsonData, null, 2), (err) => {
+  fs.writeFile('meucanal.json', JSON.stringify(jsonData, null, 2), (err) => {
     if (err) {
         console.error('Erro ao salvar os dados:', err);
         return res.status(500).send('Erro ao salvar os dados');
