@@ -83,6 +83,40 @@ app.get('/download', (req, res) => {
 
 
 
+app.get('/meu', (req, res) => {
+    const filePath = 'canais.json'; // Substitua pelo caminho correto para o seu arquivo JSON
+
+  
+  
+  
+    // Verifica se o arquivo existe
+    fs.access(filePath, fs.constants.F_OK, (err) => {
+        if (err) {
+            console.error('O arquivo não existe:', err);
+            return res.status(404).send('O arquivo não existe');
+        }
+
+        // Define os cabeçalhos da resposta para fazer o navegador baixar o arquivo
+        res.setHeader('Content-Disposition', 'attachment; filename=canais.json');
+        res.setHeader('Content-Type', 'application/json');
+
+        // Faz o stream do arquivo para a resposta HTTP
+        const fileStream = fs.createReadStream(filePath);
+        fileStream.pipe(res);
+    });
+});
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 app.post('/upload', upload.single('arquivoJSON'), (req, res) => {
