@@ -4,9 +4,7 @@
 
 
 function IdentacaoJson(minha_serie) {
-  
-//if(document.getElementById('fileInput').files[0] ==undefined) return alert("insirar um arquivo json")
-
+   
  
 
 

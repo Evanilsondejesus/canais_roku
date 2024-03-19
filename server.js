@@ -33,20 +33,7 @@ app.use(cors());
 
 
 
-
-
-
-const dados = 'Deu certo dessa vez???';
-const caminhoArquivo = 'sucesso.json';
-
-fs.writeFile(caminhoArquivo, dados, (err) => {
-    if (err) {
-        console.error('Erro ao escrever o arquivo:', err);
-        return;
-    }
-    console.log('Arquivo escrito com sucesso!');
-});
-
+ 
 
 
 
