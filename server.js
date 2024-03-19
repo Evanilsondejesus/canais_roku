@@ -73,10 +73,6 @@ app.get('/download', (req, res) => {
 app.get('/canal', (req, res) => {
     const filePath = 'canais.json'; // Substitua pelo caminho correto para o seu arquivo JSON
 
-  
-  
-  
-    // Verifica se o arquivo existe
     fs.access(filePath, fs.constants.F_OK, (err) => {
         if (err) {
             console.error('O arquivo não existe:', err);
@@ -96,16 +92,6 @@ app.get('/canal', (req, res) => {
 
 
 
-
-
-
-
-
-
-
-
-
-
 app.post('/upload', upload.single('arquivoJSON'), (req, res) => {
   // Verifica se um arquivo foi enviado
   if (!req.file) {
@@ -116,11 +102,7 @@ app.post('/upload', upload.single('arquivoJSON'), (req, res) => {
   const jsonData = JSON.parse(req.file.buffer.toString('utf8'));
   console.log("sim deu certo")
   res.send("foi enviado com sucesso")
-
-  
-  
-  
-  //const meujson = JSON.stringify(jsonData);
+ 
   
   const meujson = minhaFuncao(jsonData);
 ;
@@ -131,23 +113,8 @@ fs.writeFile(caminhoArquivo, meujson, (err) => {
         console.error('Erro ao escrever o arquivo:', err);
         return;
     }
-    console.log('Arquivo escrito com sucesso!');
+     
 });
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-   
-
-
 });
 
 
