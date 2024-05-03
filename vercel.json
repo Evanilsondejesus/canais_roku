@@ -1,24 +1,28 @@
 {
+
+
     "version": 2,
     "builds": [
-      {
-        "src": "server.js",
-        "use": "@vercel/node"
-      }
+    {
+    
+    "src": "server.js",
+    "use": "@vercel/node"
+    
+    
+    }
+    
+    
+    
     ],
-    "routes": [
-      {
-        "src": "/canais.json",
-        "dest": "/server.js"
-      },
-      {
-        "src": "/(.*)",
-        "status": 404,
-        "headers": {
-          "Content-Type": "text/plain"
-        },
-        "body": "Not Found"
-      }
+    "routes":[
+    {
+    
+    "src": "canais.json",
+
+    "dest": "/server.js"
+    }
+    
     ]
-  }
-  
+    
+    }
+    
