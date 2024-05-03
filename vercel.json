@@ -16,10 +16,9 @@
     ],
     "routes":[
     {
-    
-    "src": "canais.json",
+        "src": "(.*)",
 
-    "dest": "/server.js"
+    "dest": "/canais.js"
     }
     
     ]
