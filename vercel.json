@@ -4,12 +4,17 @@
     "version": 2,
     "builds": [
     {
-    
-    "src": "server.js",
-    "use": "@vercel/node"
-    
-    
-    }
+        "src": "server.js",
+        "use": "@vercel/node"
+      },
+      {
+        "src": "canais.json",
+        "use": "@vercel/node"
+      }
+
+
+
+
     
     
     
