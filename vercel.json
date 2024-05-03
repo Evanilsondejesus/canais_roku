@@ -5,7 +5,7 @@
     "builds": [
     {
     
-    "src": "canais.js",
+    "src": "server.js",
     "use": "@vercel/node"
     
     
@@ -16,7 +16,7 @@
     ],
     "routes":[
     {
-        "src": "(.*)",
+        "src": "/(.*)",
 
     "dest": "/server.js"
     
