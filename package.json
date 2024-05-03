@@ -17,7 +17,7 @@
     "multer": "^1.4.5-lts.1"
   },
   "engines": {
-    "node": "14.x"
+    "node": "20.x"
   },
   "repository": {
     "url": "https://glitch.com/edit/#!/glitch-hello-node"
