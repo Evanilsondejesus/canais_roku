@@ -20,10 +20,7 @@
     
     ],
     "routes": [
-      {
-        "src": "/canais.json",
-        "dest": "/canais.js"
-      },
+       
       {
         "src": "/(.*)",
         "dest": "/server.js"
