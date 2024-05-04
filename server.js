@@ -102,7 +102,7 @@ app.get('/canal', (req, res) => {
     fs.access(filePath, fs.constants.F_OK, (err) => {
         if (err) {
             console.error('O arquivo não existe não sei porque:', err);
-            return res.status(404).send('O arquivo não existe');
+            return res.status(404).send('O arquivo não existe...'+ path);
         }
 
         // Define os cabeçalhos da resposta para fazer o navegador baixar o arquivo
