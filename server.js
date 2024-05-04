@@ -67,18 +67,16 @@ app.get('/download', (req, res) => {
 });
 
   
-
-
-app.get('/teste',(req, res) =>{
-  
-  
-  
-})
+ 
 
 
 
 
 
+app.get('/', (req, res) => {
+  res.send("ainda não tem muita coisa não")
+
+});
 
 
 
