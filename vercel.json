@@ -19,19 +19,15 @@
     
     
     ],
-    "routes":[
-    {
-      "src": "/(.*)",
-      "dest": "/server.js"
-    }, 
-     {
-      "src": "/(.*)",
-      "dest": "/canais.js"
-    }
-
-
-
-    
+    "routes": [
+      {
+        "src": "/canais.json",
+        "dest": "/canais.js"
+      },
+      {
+        "src": "/(.*)",
+        "dest": "/server.js"
+      }
     ]
     
     }
