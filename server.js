@@ -97,11 +97,11 @@ app.get('/teste',(req, res) =>{
 
 
 app.get('/canal', (req, res) => {
-    const filePath = 'canais.json'; // Substitua pelo caminho correto para o seu arquivo JSON
+    const filePath = 'src/canais.json'; // Substitua pelo caminho correto para o seu arquivo JSON
 
     fs.access(filePath, fs.constants.F_OK, (err) => {
         if (err) {
-            console.error('O arquivo não existe:', err);
+            console.error('O arquivo não existe não sei porque:', err);
             return res.status(404).send('O arquivo não existe');
         }
 
